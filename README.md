@@ -2,7 +2,7 @@
 ___
 _**Ingemino**_ is a moderately sized walled city on the coast of a large body of water. You, _the Player Character_, were born and have lived your entire life in this city. Make your backstory whatever you like as long as it complies with the world. 
 Speaking of which, The world around _Ingemino_ is almost completely unexplored apart due to the immense risk of, well, death when going out exploring for any purpose.
-_(Although, there was a group of adventurers once who had made great strides in exploring and exploiting the unknown treasures of this land. They had a large table in their preferred ~~AirBnB~~ Tavern & Inn, The Sly Prince, on which they used to carve an ever-expanding map of their expeditions. It was their terminal of sorts and their reference for all adventures. Unfortunately, it burned down during a fire)_ 
+_(Although, there was a group of adventurers who had made great strides in exploring and exploiting the unknown treasures of this land. They had a large table in their preferred ~~AirBnB~~ Tavern & Inn, The Sly Prince, on which they used to carve an ever-expanding map of their expeditions. It was their terminal of sorts and their reference for all adventures. Unfortunately, it burned down during a fire)_ 
 ___
 30 days in a month, 12 months in a year. (standard days of a week)
 Months:
