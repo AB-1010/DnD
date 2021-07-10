@@ -19,7 +19,7 @@ Months:
 11. Knowember
 12. Dosember
 ___
-"you get a faction! and you get a faction! everyone gets a faction!"
+<sup>"you get a faction! and you get a faction! everyone gets a faction!"</sup>
 ### Factions? Factions. _(they have their own buildings)_ 
 * **The Golden Legacy**: A dynasty of fancy exotic elves who "mediate and coordinate" with the leaders of all the major factions of Ingemino. [The Ivory Towers]
 * **The Angelic Fighters**: The faction of holy fighters which represent their deities in Ingemino and serve The Golden Legacy without any direct communication from them. The Knights of The Arsenal are known to pick the strongest and brightest from this pool of warriors. [The Sanctus] **[Joinable]**
