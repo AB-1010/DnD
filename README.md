@@ -31,3 +31,6 @@ ___
 * **The 50s**: A large group of half-breeds. Half-orcs, half-elves, half-halflings (quarterlings?). You name it. They just want to be seen as legitimate races.
 * **The Order of The White Stag**: A group of rangers still loyal to the Lunelin Elven Prince, Eurylos, who was exiled almost a hundred years ago for trying to change the status quo of the way Ingemino is governed.
 * **Altered Magic**: The faction of dark mages who wish to change magic forever. They were banished from Ingemino for breaking into The Octosidus _(being the only ones to ever achieve that feat yet)_ and stealing various artifacts from The Council of The Eight Tipped Star. They are not welcome in Ingemino and rumors have it they're still developing and practicing their dark magic somewhere in the world.
+
+A graphical representation of what the city looks like.
+![image](https://user-images.githubusercontent.com/26383552/125162163-0766dd00-e1a4-11eb-91d1-e8befafa56db.png)
