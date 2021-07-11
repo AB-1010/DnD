@@ -40,7 +40,7 @@ ___
 * Deities from the Forgotten Realms, Greek or Norse list
 * Feats will be approved per case. 
 * Equipment costs are written in the PHB. 
-* Variant Humans.
+* ~~Variant Humans.~~
 * Starting level = 5, Points will be rolled. You get to choose items from your starting 
   equipment list & and get starting gold as well which you have to roll for (you can spend it on 
   the PHB equipment list for the listed amount).
