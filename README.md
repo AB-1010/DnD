@@ -35,6 +35,15 @@ ___
 A graphical representation of what the city looks like. Not to scale.
 ![image](https://user-images.githubusercontent.com/26383552/125162163-0766dd00-e1a4-11eb-91d1-e8befafa56db.png)
 ___
+<u>List of shops</u>
+District| Street | Shop |
+|:---:|:---:|:---:
+Emercor | Tome Way | Alard's Armoury
+Emercor | Tome Way | Come's Marvelous Tinctures
+Emercor | Tome Way | Efril's Emporium
+Emercor | Tome Way | The Fox's Blades
+
+___
 ### RULES
 * Sourcebooks allowed: PHB, XGtE and TCoE (Spells not yet reviewed). 
 * Deities from the Forgotten Realms, Greek or Norse list
