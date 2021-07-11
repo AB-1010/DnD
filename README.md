@@ -62,3 +62,13 @@ ___
  * Tracker - Wisdom (Survival): Identifies tracks to determine what creatures dwells in a certain areas. Party learns of any remarkable creatures that may be nearby on a successful Skill check, providing insight as to what they might face.
  * Cartographer - Dexterity (Slight of Hand) and/or Wisdom (Nature): Maps the area for the party, discovering points of interest. Players gain advantage on their exploration role checks if traveling through an area the Cartographer has previously mapped.
  * Lore Gatherer - Intelligence (History) and/or Intelligence (Nature) and/or Intelligence (Arcana): Gains insight on the area that the party is exploring. Learns lore-based information of the DM's choosing on a successful skill check.
+___
+__**XP TRACKER**__ [Current Level Cap = **7**]
+| Name | XP | XP Needed | Piety |
+| :---: | :---: | :---: | :---:
+| Theodohr | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Hephaestus, Piety Score: 0]
+Todo | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
+Adrian | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
+Levi | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Artemis, Piety Score: 0]
+Vigna | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Shar, Piety Score: 0]
+Kerrik | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
