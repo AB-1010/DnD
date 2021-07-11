@@ -53,3 +53,12 @@ ___
 You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.
 
 All of this is subject to change
+___
+#### __Exploration Roles__
+ * Navigator - Wisdom (Survival): Determines the route to a chosen location, provides all players with a +2 bonus on their respective exploration role checks on a successful Skill check.
+ * Scout - Dexterity (Stealth) and/or Wisdom (Perception): Moves ahead of the party, acting as a first line of defense for potential hostile encounters. Allows the party to avoid encounters on successful Skill check.
+ * Lookout - Wisdom (Perception): Prevents ambushes, spots potential clues or areas of interest when party reaches their destination. Party gets advantage on Initiative rolls on a successful Skill check.
+ * Forager - Intelligence (Nature): Gathers food for the party. Players don't use rations/food from inventory if anyone from the party succeeds in foraging food.
+ * Tracker - Wisdom (Survival): Identifies tracks to determine what creatures dwells in a certain areas. Party learns of any remarkable creatures that may be nearby on a successful Skill check, providing insight as to what they might face.
+ * Cartographer - Dexterity (Slight of Hand) and/or Wisdom (Nature): Maps the area for the party, discovering points of interest. Players gain advantage on their exploration role checks if traveling through an area the Cartographer has previously mapped.
+ * Lore Gatherer - Intelligence (History) and/or Intelligence (Nature) and/or Intelligence (Arcana): Gains insight on the area that the party is exploring. Learns lore-based information of the DM's choosing on a successful skill check.
