@@ -63,6 +63,9 @@ ___
  * Cartographer - Dexterity (Slight of Hand) and/or Wisdom (Nature): Maps the area for the party, discovering points of interest. Players gain advantage on their exploration role checks if traveling through an area the Cartographer has previously mapped.
  * Lore Gatherer - Intelligence (History) and/or Intelligence (Nature) and/or Intelligence (Arcana): Gains insight on the area that the party is exploring. Learns lore-based information of the DM's choosing on a successful skill check.
 ___
+![image](https://user-images.githubusercontent.com/26383552/125196278-ec18d200-e276-11eb-8346-5ec49c5bc292.png)
+
+
 __**XP TRACKER**__ [Current Level Cap = **7**]
 | Name | XP | XP Needed | Piety |
 | :---: | :---: | :---: | :---:
