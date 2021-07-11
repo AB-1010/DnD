@@ -34,3 +34,22 @@ ___
 
 A graphical representation of what the city looks like. Not to scale.
 ![image](https://user-images.githubusercontent.com/26383552/125162163-0766dd00-e1a4-11eb-91d1-e8befafa56db.png)
+___
+### RULES
+* Sourcebooks allowed: PHB, XGtE and TCoE (Spells not yet reviewed). 
+* Deities from the Forgotten Realms, Greek or Norse list
+* Feats will be approved per case. 
+* Equipment costs are written in the PHB. 
+* Variant Humans.
+* Starting level = 5, Points will be rolled. You get to choose items from your starting 
+  equipment list & and get starting gold as well which you have to roll for (you can spend it on 
+  the PHB equipment list for the listed amount).
+* Flanking: creatures on opposing sides of an enemy receive a +2 to their Attack Rolls vs the enemy between them.
+* Variant Encumbrance (you don't need to pay attention to the STR column of armours): If you carry weight in excess of 5x your STR score, you are encumbered, reducing your speed by 10ft. If you carry weight in excess of 10x your STR score, you are heavily encumbered which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+* Outlander, Natural Explorer etc. give Advantage on Navigation (so that if the party moves at a fast pace, that cancels the Disadvantage), Advantage on Perception while traveling (so that if the party moves at a fast pace...), and foraging yielding enough food for a second person (basically covering one other party member’s failure) instead of the regular bonuses.
+* While in combat, a potion can be consumed by a creature as a Bonus Action while "feeding" it to another creature is considered an Action. Additionally, throwing potions to others is considered an Action with a range of 20/60 feet. If the thrown potion is an attack (ie: alchemist fire, acid, etc), it is considered an Improvised Weapon.
+
+---
+You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.
+
+All of this is subject to change
