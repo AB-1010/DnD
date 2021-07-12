@@ -1,4 +1,13 @@
-**Starting date**: _[:kekLeo: not typo]_ 1st Janary 301.
+__**XP TRACKER**__ [Current Level Cap = **7**]
+| Name | XP | XP Needed | Piety |
+| :---: | :---: | :---: | :---:
+| Theodohr | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Hephaestus, Piety Score: 0]
+Todo | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
+Adrian | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
+Levi | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Artemis, Piety Score: 0]
+Vigna | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Shar, Piety Score: 0]
+Kerrik | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
+___
 ___
 _**Ingemino**_ is a moderately sized walled city on the coast of a large body of water. You, _the Player Character_, were born and have lived your entire life in this city. Make your backstory whatever you like as long as it complies with the world. 
 Speaking of which, The world around _Ingemino_ is almost completely unexplored apart due to the immense risk of, well, death when going out exploring for any purpose.
@@ -100,16 +109,7 @@ Level | Effect
 5 | Speed reduced to 0
 6 | **DEATH**
 ___
-__**XP TRACKER**__ [Current Level Cap = **7**]
-| Name | XP | XP Needed | Piety |
-| :---: | :---: | :---: | :---:
-| Theodohr | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Hephaestus, Piety Score: 0]
-Todo | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
-Adrian | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
-Levi | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Artemis, Piety Score: 0]
-Vigna | 6,500 XP/14,000 XP | [7500 XP to level 6] | [Shar, Piety Score: 0]
-Kerrik | 6,500 XP/14,000 XP | [7500 XP to level 6] | [TBA, Piety Score: 0]
-___
+
 ##### Quick tip
 You can note down your inspiration status in roll20 by clicking on the toggle button:
 
