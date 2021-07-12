@@ -87,6 +87,7 @@ ___
 ##### Quick tip
 You can note down your inspiration status in roll20 by clicking on the toggle button:
 
-![image](https://user-images.githubusercontent.com/26383552/125261262-b7f8ec00-e31e-11eb-8139-d477c45e51b4.png)
+![image](https://user-images.githubusercontent.com/26383552/125261930-5ab16a80-e31f-11eb-81d7-af67b9a548d5.png)
 when clicked:
-![image](https://user-images.githubusercontent.com/26383552/125261339-c8a96200-e31e-11eb-8ea2-5f5f5ff49a41.png)
+![image](https://user-images.githubusercontent.com/26383552/125262027-7157c180-e31f-11eb-9bf0-1713cb5c9c03.png)
+
