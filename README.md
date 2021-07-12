@@ -90,6 +90,16 @@ A character needs one gallon of water per day, or two gallons per day if the wea
 
 If the character already has one or more levels of exhaustion, the character takes two levels in either case.
 ___
+#### Exhaustion
+Level | Effect
+:---: | ---
+1 | Disadvantage on ability checks (not saving throws)
+2 | Speed Halved
+3 | Disadvantage on attack roles and saving throws
+4 | Max HP halved
+5 | Speed reduced to 0
+6 | **DEATH**
+___
 __**XP TRACKER**__ [Current Level Cap = **7**]
 | Name | XP | XP Needed | Piety |
 | :---: | :---: | :---: | :---:
