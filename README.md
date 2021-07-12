@@ -102,6 +102,20 @@ For short spans of time (up to an hour), many animals move much faster than huma
 
 Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see PHB pg155), and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 ___
+##### Activity while traveling
+**Encountering Creatures**: If the DM determines that the adventurers encounter other creatures while they're traveling, it's up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, offer something, run away, wait to see what the other group does etc.
+
+**Surprising Foes**: If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. 
+<sub>The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
+
+If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.</sub>
+
+**Navigate**: The character can try to prevent the group from becoming lost, making a Wisdom (Survival) check when the DM calls for it. 
+
+**Track**: A character can follow the tracks of another creature, making a Wisdom (Survival) check when the DM calls for it.
+
+**Forage**: The character can keep an eye out for ready sources of food and water, making a Wisdom (Survival) check when the DM calls for it.
+___
 #### FOOD & WATER
 Characters who don't eat or drink suffer the effects of exhaustion. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 ___
