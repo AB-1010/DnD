@@ -106,9 +106,9 @@ ___
 **Encountering Creatures**: If the DM determines that the adventurers encounter other creatures while they're traveling, it's up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, offer something, run away, wait to see what the other group does etc.
 
 **Surprising Foes**: If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. 
-<sub>The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
+<sub>The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.</sub>
 
-If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.</sub>
+<sub>If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.</sub>
 
 **Navigate**: The character can try to prevent the group from becoming lost, making a Wisdom (Survival) check when the DM calls for it. 
 
