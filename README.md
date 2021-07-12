@@ -28,6 +28,8 @@ Months:
 10. Spooktober
 11. Knowember
 12. Dosember
+
+There is no particular source of light (as in, there's no visible "sun" in the sky) in the day, the entire sky seems to light up. Two moons can be seen in clear night skies. They are called "Alpha" and "Beta" for no reason whatsoever. 
 ___
 <sup>"you get a faction! and you get a faction! everyone gets a faction!"</sup>
 ### Factions? Factions. _(they have their own buildings)_ 
