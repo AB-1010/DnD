@@ -70,7 +70,7 @@ ___
 * When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
 
 ---
-You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.
+**You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.**
 
 All of this is subject to change
 ___
@@ -83,6 +83,24 @@ ___
  * Tracker - Wisdom (Survival): Identifies tracks to determine what creatures dwells in a certain areas. Party learns of any remarkable creatures that may be nearby on a successful Skill check, providing insight as to what they might face.
  * Cartographer - Dexterity (Slight of Hand) and/or Wisdom (Nature): Maps the area for the party, discovering points of interest. Players gain advantage on their exploration role checks if traveling through an area the Cartographer has previously mapped.
  * Lore Gatherer - Intelligence (History) and/or Intelligence (Nature) and/or Intelligence (Arcana): Gains insight on the area that the party is exploring. Learns lore-based information of the DM's choosing on a successful skill check.
+__
+#### Travel Pace (modified)
+While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see the "Activity While Traveling" section for more information).
+Pace|Distance Traveled/hour|Distance Traveled/day|Effect
+ ---|        ---           |        ---          |---
+Fast|          2 miles     |      15 miles       | -5 penalty to passive Wisdom (Perception) scores
+Normal|       1.5 miles    |      12 miles       | _
+Slow|       1 mile         |      9 miles        | Able to use stealth
+___
+#### Forced March
+The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.
+
+For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see the table below).
+___
+###### Mounts & Vehicles
+For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
+
+Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see PHB pg155), and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 ___
 #### FOOD & WATER
 Characters who don't eat or drink suffer the effects of exhaustion. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
