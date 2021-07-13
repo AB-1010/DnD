@@ -198,4 +198,6 @@ __Examples__
 Too Weak | Appropriate | Too Strong
 ---|---|---
 -10 ft speed | Loses flying speed | Paralyzed
--4 on next attack | Blinded
+-4 on next attack | Blinded | Stunned 
+Disadv. on a skill | Disadv. on a saving throw (incl. concentration) | Disadv. on multiple saving throws
+-4 damage | Diarmed | Halved damage
