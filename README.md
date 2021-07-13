@@ -74,7 +74,7 @@ ____
 <sup>this is a big one</sup>
 
 ##### Time 
-Travel is tracked in days and hexes. Ones set of rolls is made per day, and a number of hexes will be traversed per day depending on the environment, the mode of travel, and whether the party pushes themselves.
+Travel is tracked in days and hexes. One set of rolls is made per day, and a number of hexes will be traversed per day depending on the environment, the mode of travel, and whether the party pushes themselves.
 ____
 ###### Sleeping In The Wild
 Whenever you sleep in the wilderness, you cannot benefit from a long rest and you expend one Hit Die. This includes somewhere temporary like a cave or tent, or other squalid condition.
