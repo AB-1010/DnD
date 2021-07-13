@@ -44,14 +44,6 @@ ___
 * **The Order of The White Stag**: A group of rangers still loyal to the Lunelin Elven Prince, Eurylos, who was exiled almost a hundred years ago for trying to change the status quo of the way Ingemino is governed.
 * **Altered Magic**: The faction of dark mages who wish to change magic forever. They were banished from Ingemino for breaking into The Octosidus _(being the only ones to ever achieve that feat yet)_ and stealing various artifacts from The Council of The Eight Tipped Star. They are not welcome in Ingemino and rumors have it they're still developing and practicing their dark magic somewhere in the world.
 
-___
-<u>List of shops</u>
-District| Street | Shop |
-|:---:|:---:|:---:
-Emercor | Tome Way | Alard's Armoury
-Emercor | Tome Way | Come's Marvelous Tinctures
-Emercor | Tome Way | Efril's Emporium
-Emercor | Tome Way | The Fox's Blades
 
 ___
 ### RULES
@@ -154,4 +146,12 @@ You can note down your inspiration status in roll20 by clicking on the toggle bu
 ![image](https://user-images.githubusercontent.com/26383552/125262571-ec20dc80-e31f-11eb-984f-086c92e9f56c.png)
 when clicked:
 ![image](https://user-images.githubusercontent.com/26383552/125262639-fa6ef880-e31f-11eb-9552-b72d7709dfef.png)
+___
+<u>List of shops</u>
+District| Street | Shop |
+|:---:|:---:|:---:
+Emercor | Tome Way | Alard's Armoury
+Emercor | Tome Way | Come's Marvelous Tinctures
+Emercor | Tome Way | Efril's Emporium
+Emercor | Tome Way | The Fox's Blades
 
