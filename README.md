@@ -186,3 +186,16 @@ If you propose a temptation for your own character, it is up to the DM whether t
 * **Growth**: If your character grows or changes through the course of play, at the end of the session you can change or replace a relevant characteristic (do inform the DM) to reflect the change. Doing so renews that characteristic. This type of renewal will occur less often than the other types.
 <sub>Character growth would not happen every session, but when it does happen it can be a lot of fun. Say, a character might have an ideal, "Honour above all else!", but during the session have to sacrifice their honor in order to save their friend. Clearly honor was NOT above all else! How the player updates their character's ideal to reflect the change is how the character grows, and the player is rewarded for that growth in Inspiration and XP</sub>
 
+___
+#### Called Shots
+When plausible in the fiction of battle, you can make a "called shot", where you attack a specific part of a creature, or an object the creature is holding or wearing. The DM decides what the effect will be for succeeding before you commit to making a called shot. Examples of appropriate effects are included in the examples table.
+
+Making a called shot **requires having advantage** on the attack, and the cost of making a called shot is that you **lose advantage**. If the attack hits, the called shot is successful: you deal damage as normal, and the target suffers from the effect.
+
+You can make up to one called shot per round. Creatures can only be affected by one called shot at a time. NPCs can also make called shots. 
+**Effect Duration**: Bodily injuries should be temporary, lasting until the end of your next turn. An example, shooting a Cyclops's eye only bruises it for a round, instead of permanently blinding them. Other effects, such as disarming them, last until voluntarily fixed.
+__Examples__
+Too Weak | Appropriate | Too Strong
+---|---|---
+-10 ft speed | Loses flying speed | Paralyzed
+-4 on next attack | Blinded
