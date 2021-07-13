@@ -60,7 +60,9 @@ ___
 * When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
 * To help another character with a skill check, you must be proficient in the skill they are using.
 * After being reduced to 0 hit points, if the remaining damage equals or exceeds your max hit points, you gain 4 levels of exhaustion instead of instantly dying.
-* 
+* If the party (or NPCs) want to escape combat, they can do so by having each escaping character Dash or Disengage on their next turn. Once all characters have done so, the DM (or players in the case of escaping NPCs) choose one of the following:
+ * The enemy is not interested in chasing, and the escaping characters get away.
+ * The enemy chases them, and a skill challenge begins. If the escapees fail the skill challenge, combat recommences with the pursuers in the beginning of initiative order. If the escapees succeed, the enemy is beaten to the objective, gives up, or loses track of the characters for at least 1d4 hours.
 ---
 **You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.**
 
