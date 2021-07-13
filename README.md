@@ -165,7 +165,7 @@ Inspiration can be used to gin one of the following benefits:
 ##### Using Inspiration
 To use inspiration, you call on one of your five personal characteristics. The characteristic should be relevant to the current situation, ideally motivating the action the character is making/taking at the time.
 
-It's up to you how connected your chosen characteristic is to the scene - the DM won't deny you your use of Inspiration. That said, players are encouraged to portray something about their character, whether it is a silly one-liner, yelling soething dramatic, or revealing something about their character's backstory or feelings.
+It's up to you how connected your chosen characteristic is to the scene - the DM won't deny you your use of Inspiration. That said, players are encouraged to portray something about their character, whether it is a silly one-liner, yelling something dramatic, or revealing something about their character's backstory or feelings.
 
 You can only use Inspiration once per round or skill challenge.
 
