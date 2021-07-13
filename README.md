@@ -69,7 +69,7 @@ ___
 * While in combat, a potion can be consumed by a creature as a Bonus Action while "feeding" it to another creature is considered an Action. Additionally, throwing potions to others is considered an Action with a range of 20/60 feet. If the thrown potion is an attack (ie: alchemist fire, acid, etc), it is considered an Improvised Weapon.
 * When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
 * To help another character with a skill check, you must be proficient in the skill they are using.
-
+* After being reduced to 0 hit points, if the remaining damage equals or exceeds your max hit points, you gain a level of exhaustion instead of instantly dying.
 ---
 **You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.**
 
