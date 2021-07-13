@@ -45,22 +45,22 @@ ___
 * **Altered Magic**: The faction of dark mages who wish to change magic forever. They were banished from Ingemino for breaking into The Octosidus _(being the only ones to ever achieve that feat yet)_ and stealing various artifacts from The Council of The Eight Tipped Star. They are not welcome in Ingemino and rumors have it they're still developing and practicing their dark magic somewhere in the world.
 ___
 ### RULES
-* Sourcebooks allowed: PHB, XGtE and TCoE (Spells not yet reviewed). 
-* Deities from the Forgotten Realms, Greek or Norse list
-* Feats will be approved per case. 
-* Equipment costs are written in the PHB. 
-* ~~Variant Humans.~~
-* Starting level = 5, Points will be rolled. You get to choose items from your starting 
+1. Sourcebooks allowed: PHB, XGtE and TCoE (Spells not yet reviewed). 
+2. Deities from the Forgotten Realms, Greek or Norse list
+3. Feats will be approved per case. 
+4. Equipment costs are written in the PHB. 
+5. ~~Variant Humans.~~
+6. Starting level = 5, Points will be rolled. You get to choose items from your starting 
   equipment list & and get starting gold as well which you have to roll for (you can spend it on 
   the PHB equipment list for the listed amount).
-* Flanking: creatures on opposing sides of an enemy receive a +2 to their Attack Rolls vs the enemy between them.
-* Variant Encumbrance (you don't need to pay attention to the STR column of armours): If you carry weight in excess of 5x your STR score, you are encumbered, reducing your speed by 10ft. If you carry weight in excess of 10x your STR score, you are heavily encumbered which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
-* Outlander, Natural Explorer etc. give Advantage on Navigation (so that if the party moves at a fast pace, that cancels the Disadvantage), Advantage on Perception while traveling (so that if the party moves at a fast pace...), and foraging yielding enough food for a second person (basically covering one other party member’s failure) instead of the regular bonuses.
-* While in combat, a potion can be consumed by a creature as a Bonus Action while "feeding" it to another creature is considered an Action. Additionally, throwing potions to others is considered an Action with a range of 20/60 feet. If the thrown potion is an attack (ie: alchemist fire, acid, etc), it is considered an Improvised Weapon.
-* When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
-* To help another character with a skill check, you must be proficient in the skill they are using.
-* After being reduced to 0 hit points, if the remaining damage equals or exceeds your max hit points, you gain 4 levels of exhaustion instead of instantly dying.
-* If the party (or NPCs) want to escape combat, they can do so by having each escaping character Dash or Disengage on their next turn. Once all characters have done so, the DM (or players in the case of escaping NPCs) choose one of the following:
+7. Flanking: creatures on opposing sides of an enemy receive a +2 to their Attack Rolls vs the enemy between them.
+8. Variant Encumbrance (you don't need to pay attention to the STR column of armours): If you carry weight in excess of 5x your STR score, you are encumbered, reducing your speed by 10ft. If you carry weight in excess of 10x your STR score, you are heavily encumbered which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+9. (To be changed) Outlander, Natural Explorer etc. give Advantage on Navigation (so that if the party moves at a fast pace, that cancels the Disadvantage), Advantage on Perception while traveling (so that if the party moves at a fast pace...), and foraging yielding enough food for a second person (basically covering one other party member’s failure) instead of the regular bonuses.
+10. While in combat, a potion can be consumed by a creature as a Bonus Action while "feeding" it to another creature is considered an Action. Additionally, throwing potions to others is considered an Action with a range of 20/60 feet. If the thrown potion is an attack (ie: alchemist fire, acid, etc), it is considered an Improvised Weapon.
+11. When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
+12. To help another character with a skill check, you must be proficient in the skill they are using.
+13. After being reduced to 0 hit points, if the remaining damage equals or exceeds your max hit points, you gain 4 levels of exhaustion instead of instantly dying.
+14. If the party (or NPCs) want to escape combat, they can do so by having each escaping character Dash or Disengage on their next turn. Once all characters have done so, the DM (or players in the case of escaping NPCs) choose one of the following:
  * The enemy is not interested in chasing, and the escaping characters get away.
  * The enemy chases them, and a skill challenge begins. If the escapees fail the skill challenge, combat recommences with the pursuers in the beginning of initiative order. If the escapees succeed, the enemy is beaten to the objective, gives up, or loses track of the characters for at least 1d4 hours.
 ---
