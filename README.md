@@ -68,6 +68,7 @@ ___
 * Outlander, Natural Explorer etc. give Advantage on Navigation (so that if the party moves at a fast pace, that cancels the Disadvantage), Advantage on Perception while traveling (so that if the party moves at a fast pace...), and foraging yielding enough food for a second person (basically covering one other party member’s failure) instead of the regular bonuses.
 * While in combat, a potion can be consumed by a creature as a Bonus Action while "feeding" it to another creature is considered an Action. Additionally, throwing potions to others is considered an Action with a range of 20/60 feet. If the thrown potion is an attack (ie: alchemist fire, acid, etc), it is considered an Improvised Weapon.
 * When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
+* To help another character with a skill check, you must be proficient in the skill they are using.
 
 ---
 **You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.**
@@ -141,7 +142,12 @@ Level | Effect
 5 | Speed reduced to 0
 6 | **DEATH**
 ___
-
+#### "Active" Ability Checks
+When the DM proposes an ability or skill check, they choose a DC based on how the players have described their characters performing the task.
+The DM tells the players the DC before any dice are rolled – the characters are assumed to be competent enough to assess the difficulty of a task before they attempt it.
+The players then have the option to either attempt the ability check, or decide on a different course of action. This can include altering how they approach the task in order to make it easier, in which case the DM would be open to lowering the DC. Or if the solution is clever enough, an ability check might not be necessary at all! This can be particularly appropriate when navigating hazards.
+<sub>Ability checks are more than just dice rolls. Ability checks are an opportunity for roleplaying. Describing how a character does something can often be more interesting than the dice roll itself.</sub>
+___
 ##### Quick tip
 You can note down your inspiration status in roll20 by clicking on the toggle button:
 
