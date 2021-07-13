@@ -69,62 +69,149 @@ ___
 
 All of this is subject to change
 ___
-#### __Exploration Roles__
- * Navigator - Wisdom (Survival): Determines the route to a chosen location, provides all players with a +2 bonus on their respective exploration role checks on a successful Skill check.
- * Scout - Dexterity (Stealth) and/or Wisdom (Perception): Moves ahead of the party, acting as a first line of defense for potential hostile encounters. Allows the party to avoid encounters on successful Skill check.
- * Lookout - Wisdom (Perception): Prevents ambushes, spots potential clues or areas of interest when party reaches their destination. Party gets advantage on Initiative rolls on a successful Skill check.
- * Forager - Intelligence (Nature): Gathers food for the party. Players don't use rations/food from inventory if anyone from the party succeeds in foraging food.
-> During your travels, you may find yourselves wanting to forage for food. To forage, you must travel at a slow pace for the entire day. A character who forages successfully finds 1d6+their Wisdom modifier in pounds of food and potable water. Foraging can be abundant, moderate, scarce, or unavailable. Depending on availability, finding enough food to feed a person for a day may be more difficult.
- * Tracker - Wisdom (Survival): Identifies tracks to determine what creatures dwells in a certain areas. Party learns of any remarkable creatures that may be nearby on a successful Skill check, providing insight as to what they might face.
- * Cartographer - Dexterity (Slight of Hand) and/or Wisdom (Nature): Maps the area for the party, discovering points of interest. Players gain advantage on their exploration role checks if traveling through an area the Cartographer has previously mapped.
- * Lore Gatherer - Intelligence (History) and/or Intelligence (Nature) and/or Intelligence (Arcana): Gains insight on the area that the party is exploring. Learns lore-based information of the DM's choosing on a successful skill check.
-__
-#### Travel Pace (modified)
-While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see the "Activity While Traveling" section for more information).
-Pace|Distance Traveled/hour|Distance Traveled/day|Effect
- ---|        ---           |        ---          |---
-Fast|          2 miles     |      15 miles       | -5 penalty to passive Wisdom (Perception) scores
-Normal|       1.5 miles    |      12 miles       | _
-Slow|       1 mile         |      9 miles        | Able to use stealth
+____
+## EXPLORATION 
+<sup>this is a big one</sup>
+
+##### Time 
+Travel is tracked in days and hexes. Ones set of rolls is made per day, and a number of hexes will be traversed per day depending on the environment, the mode of travel, and whether the party pushes themselves.
+____
+###### Sleeping In The Wild
+Whenever you sleep in the wilderness, you cannot benefit from a long rest and you expend one Hit Die. This includes somewhere temporary like a cave or tent, or other squalid condition.
+ Long rests require at least poor conditions: safe and comfortable places like a wizard's tower, a permanent and maintained tree-house, or a secure room safe from the weather and wandering monsters.
+If you have no remaining Hit Dice, you instead gain a level of exhaustion. While there are ways to mitigate it, Hit Dice and exhaustion are the main time-tracking mechanisms, incentivizing the part to spend as little possible time between safe locations.
+If you live a wealthy lifestyle (get an upgraded room for 4gp/day at The Sly Prince) or higher for the duration of a long rest, you recover one additional level of exhaustion.
 ___
-#### Forced March
-The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.
+#### Travel Procedure
+**_For Known regions_**
+Each day the party travel through a region, perform the following steps:
+**Step 1**: The players choose the hexes they want to travel through within 8 hours, or alternatively have at least one Player Character **search** for a known location or creature and let the DM choose the hex(es) based on whether the search succeeds or not.
+**Step 2**: Each PC chooses one of the following activities to perform while traveling: **navigate, search, forage, on watch, support, utilize vehicle, motivate, chronicle, or craft**
+**Step 3**: While the players are choosing their activities, the DM rolls on an encounter table and prepares the encounter. If it is an Environment Hazard, introduce it after the players have picked their activities but before DCs are determined.
+**Step 4**: The PC's resolve their activities, and roleplay any scenes they would like to have.
+**Step 5**: If an encounter was rolled and it was not a hazard, the DM introduces it.
+**Step 6**: The players choose whether to do a forced march, and which additional hexes they will travel through.
 
-For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see the table below).
+__Hours per hex__
+Environment | On Foot | Vehicle
+---|:---:|:---:|
+Road/Path, Grassland, Coastal, Desert | 4 | 2
+Swamp, Hills | 6 | 4
+Arctic, Forest, Mountain (path) | 8 | 6
+Mountains | 16 | 12
+Water | 16 | 4
+Air | No | Go away
+
+**_For unknown regions_**
+**Step 1**: The players choose the hex they want to travel through within 8 hours, or alternatively have at least one Player Character **search** for a known location or creature and let the DM choose the neighboring hex based on whether the search succeeds or not.
+**Step 2**: DM determines encounters
+**Step 3**: If a non-hazardous problem is encountered, the DM introduces it.
+**Step 4**: The players choose whether to do a forced march, and which additional hex they will travel through.
+_Once the party decides not to travel any further that day:_
+**_Step 5_**: Each PC chooses one of the following activities to perform: **navigate, search, forage, on watch, support, utilize vehicle, motivate, chronicle, or craft**
+**_Step 6_**: The PCs resolve their activities, and roleplay any scenes they would like to have
 ___
-###### Mounts & Vehicles
-For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas.
-
-Characters in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel (see PHB pg155), and they don't suffer penalties for a fast pace or gain benefits from a slow pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
+The party can always see if neighboring hexes are mountains. They party can see neighboring hexes' terrain type if the current hex allows unobstructed vision. (<Forest, Mountain (path), etc.)
 ___
-##### Activity while traveling
-**Encountering Creatures**: If the DM determines that the adventurers encounter other creatures while they're traveling, it's up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, offer something, run away, wait to see what the other group does etc.
+#### Travel Distance
+The party can reasonably travel for 8 hours each day. The number of hexes that can be traversed depends on the environment, as shown in the Hours per hex table. These numbers assume that the party possesses any appropriate gear, such as snow shoes or mountaineering equipment.
+**_Vehicles & Mounts_**: Mounts (or a vehicle) might allow the part to traverse more hexes in a day. Not all vehicles are applicable in all environments however. As an example, carriages are likely only usable on roads, and most vehicles will not be any faster than walking in forests or mountains.
+**_Forced March_**: If the party wants to traverse more hexes, they can travel for up to 16 hours in a single day, instead of the normal 8. Each additional hour costs each character 1 Hit Die, or one level of exhaustion.
+**_Stealth_** Traveling undetected relies on spotting threats before they spot you. See the **On Watch** activity, described later.
+**_Rotating Shifts_**: If the party is traveling on a vehicle large enough for them to rest, and the creatures operating the vehicle (such as horses, oarsmen, boiler room workers, or captain) can change at least every 8 hours, the party can travel for 24 hours a day.
 
-**Surprising Foes**: If the adventurers encounter a hostile creature or group, the DM determines whether the adventurers or their foes might be surprised when combat erupts. 
-<sub>The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.</sub>
-<sub>If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.</sub>
-
-**Navigate**: The character can try to prevent the group from becoming lost, making a Wisdom (Survival) check when the DM calls for it. 
-
-**Track**: A character can follow the tracks of another creature, making a Wisdom (Survival) check when the DM calls for it.
-
-**Forage**: The character can keep an eye out for ready sources of food and water, making a Wisdom (Survival) check when the DM calls for it.
+ACTIVITY DCs
+Environment|Navigate|Search|Forage|Utilize Vehicle|Potion|Poison|Protection|Weapon
+:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+Roads|0|15|10|10|20|20|15|15
+Grassland|10|15|5|15|15|15|15|15
+Coastal|0|10|10|20|15|10|15|15
+Desert|20|15|25|20|20|15|20|20
+Arctic|20|10|20|20|20|20|20|15
+Swamp|10|10|10|20|10|10|15|15
+Hills|15|15|10|15|15|15|10|10
+Forest|15|15|5|25|10|10|10|10
+Mountain path|10|20|20|15|20|20|20|20
+Mountains|20|20|20|30|20|20|15|15
+Water|15|25|15|20|10|10|20|20
+Urban|15|20|N/A|N/A|25|25|25|25
 ___
-#### FOOD & WATER
-Characters who don't eat or drink suffer the effects of exhaustion. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+### Travel Activities
+This section outlines the activities that a character can perform while traveling.
+
+Each character can perform one activity per day. 
+**_Rangers_**: Rangers can perform two activities per day.
+**_Outlander Background_**: The Wanderer feature is replaced with the following
+> In addition to your normal choice of activity when traveling, you can perform the Navigate or Forage activity.
+
+**_DC's_**: I am just going to put them in a table in the end so that everyone knows them and doesn't need to keep asking me. Just take the Activity DC and add the DC Modifiers.
+**_Multiple environments_**: All activities and encounters occur in the most common environment traveled through that day.
+**_Multiple characters_**: If multiple characters perform the same activity, each character rolls as normal and only the highest result is used.
+
+##### Navigate
+You navigate the wilderness, aiming to keep track of where you are and not get lost. _Can you not metagame if you do get lost?_
+The DC is determined by the environment the party is traveling through and any relevant modifiers, as described in the Activity DC tables. 
+On a success, the party follows the planned route. On a failure, the party is lost.
+If the DC is 0 or less, the party cannot get lost (and therefore does not require a navigator)
+**_Proficiencies_**: Wisdom (Survival), Intelligence (Navigator's Tools).
+**_Being Lost_**: If the party becomes lost, The DM tells the party what environment they are in and describes and landmarks in the hex, but does not give them any more information than that. It is up to the party to solve their predicament!
+
+##### Forage
+You forage for food and water. The DC is determined by the environment the party is in and any relevant modifiers, as described in the Activity DC tables. 
+On a success, you find enough food and water to feed the PCs for the day. If you beat the DC by more than 10, you also find enough for the PCs' mounts and close companions. Each unfed creature consumes 5sp/2 lbs of rations for the day or loses 1 Hit Die. If they have no remaining Hit Dice, or do not eat or drink for a number of days equal to their Constitution modifier, they gain a level of exhaustion.
+**_Proficiencies_**: Int or Wis (Survival or Nature)
+I will assume if the party is traveling with a vehicle or mount, they are carrying a barrel containing a week's worth of water.
+Magic below 3rd level cannot provide hydration.
+
+##### Search
+You are tracking a creature or searching for something. Regardless of what you are searching for, calculate the DC (you know the process by now). On a success, choose one of the following:
+* You find what you are looking for, if the DM knows it is in the hexes you traveled through.
+* Roll d10+10, and choose whether to replace the DM's Encounter roll for the day with the new roll (you will not know what was previously rolled). If an Environment Hazard has already been introduced, the roll would be in addition the the Hazard, instead of replacing it.
+**_Proficiencies_**: Int or Wis (Survival, Investigation, or Perception)
+
+##### Support
+You help the party handle the wilderness with supporting tasks like preparing meals or alcohol, tending to injuries, or repairing shoes or gear. 
+  The DC is 10 + the average party level. On a success, the party does not lose a Hit Die for sleeping in the wild that day, and other party members can add a d4 to their Activity checks. 
+**_Proficiencies_**: Intelligence or Wisdom (Medicine, Cook’s Utensils or Brewer’s Supplies), Intelligence or Strength (Cobbler’s Tools), Intelligence or Dexterity (Weaver’s Tools).
+
+##### Motivate
+You motivate the party to keep the pace up by playing music, coaching, persuading or intimidating the party.
+The DC is 10 + the average party level. On a success, the first 3 hours of a forced march that day don’t cost Hit Dice, and players can add a d4 to any initiative checks that day.
+**_Proficiencies_**: Charisma (Persuasion), Strength or Charisma (Intimidate or Athletics), Wisdom or Charisma (Musical Instrument).
+
+##### On Watch
+You vigilantly keep a look out for creatures and hazards. If other creatures are also on watch, spotting them before they spot the party requires a succeeding at a contested Wisdom (Perception) check. Otherwise you always spot them first. Seeing creatures early allows the party to avoid them using normal stealth rules, if desired.
+You also have a chance to spot some Environment Hazards more quickly, using the environment’s Search DC.  
+**_Proficiencies_**: Wisdom (Perception).
+
+##### Utilize Vehicle
+Whether its skillful control, tender caring of animals, or clever adjustments, vehicles and mounts can be pushed to travel faster.
+The DC to utilize a vehicle (or mount) in this way is determined by the environment the party is in and any relevant modifiers, as described in the Activity DC tables. On a success, the first 3 hours of a forced march that day don’t cost Hit Dice, and you have advantage on any checks or saving throws made to control the vehicle (or mount).  
+**_Proficiencies_**: Dexterity, Intelligence or Wisdom (Vehicle (Land or Water)), Wisdom (Animal Handling), Strength or Intelligence (Carpenter’s, Smith’s, or Tinker’s tools).
+
+##### Chronicle
+You chronicle the party’s journey, creating a record such as drawings, songs, poems, a journal, or maps. Any chronicle you create has a set amount of value, either in gold pieces or services. For example you could recount the chronicle at taverns for free food and beds, or sell copies of the work to a library or guild.
+Roll an ability check with one of the skills or toolkits below that you are proficient with. The chronicle has a gp value equal to half the result (rounded up). The value is doubled if you discover a new location or creature in the area.
+If you roll above the environment’s navigation DC, the party can travel the same route without making a navigation check in future. This includes backtracking if you become lost. **_Proficiencies_**: Intelligence (History, Performance, Musical Instrument, Forgery kit or Cartographer’s tools), Intelligence or Dexterity (Calligrapher’s or Painter’s supplies).
+
+##### Craft (Multiple)
+Each day, you gather materials from the environment and craft one of the following, depending on the toolkit you use. The DCs are presented in the Activity DC table.
+* **_Poison_**: You find ingredients and create a mild poison. It is an ingestion or injury poison, and causes the target to become poisoned for an hour if they fail a DC 15 Constitution Saving Throw. Roll Intelligence or Wisdom (Brewer’s or Alchemist’s supplies, Cook’s utensils, Herbalism or Poisoner’s kit).
+* **_Potion of Healing_**: You find ingredients and create a potion of healing. Roll Intelligence or Wisdom (Herbalism or Poisoner’s kit, or Alchemist’s supplies).
+* **_Sharpened Weapon_**: You find strange wood, a high-quality whetstone, or something similarly appropriate. With the materials you craft or sharpen a weapon. It deals +5 damage the first time it hits. Roll Dexterity or Wisdom (Mason’s, Smith’s, Tinker’s, Jeweler’s, Woodcarver’s or Carpenter’s tools).
+* **_Special material_**: At the DM’s discretion, you can also gather materials to craft other things, though some may take longer than a day to make or require more materials.
+* **_Temporary Protection_**: You find materials and craft a makeshift piece of protective equipment. It provides +2 AC for up to 7 days until it prevents an attack that would otherwise hit the wearer. Roll Strength or Wisdom (Woodcarver’s, Carpenter’s, Leatherworker’s, Cobbler’s, Potter’s or Weaver’s tools).
 ___
-#### FOOD
-A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
+#### Downtime
+##### Travelling
+Player characters can travel for 8 hours a day during downtime without risking random encounters or attempting activities. However unless they are travelling on a road (or aboard a passenger ship), they can only travel through hexes they have previously travelled through.
 
-A character can go without food for a number of days equal to 2 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion.
+##### Activities 
+With a week of downtime, a PC can successfully complete one of the following Activities without risk (assuming they meet any proficiency requirements):
 
-A day spent eating twice as much food as normal reduces the counter of days went without food by 1.
-___
-#### WATER
-
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
-
-If the character already has one or more levels of exhaustion, the character takes two levels in either case.
+*   Search the area, at the DM’s discretion. 
+*   Chronicle the goings-on in the area for a week.   
+*   Craft one of the listed items. Special materials are still at the DM’s discretion.
 ___
 #### Exhaustion
 Level | Effect
