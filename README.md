@@ -63,6 +63,7 @@ ___
 14. If the party (or NPCs) want to escape combat, they can do so by having each escaping character Dash or Disengage on their next turn. Once all characters have done so, the DM (or players in the case of escaping NPCs) choose one of the following:
  * The enemy is not interested in chasing, and the escaping characters get away.
  * The enemy chases them, and a skill challenge begins. If the escapees fail the skill challenge, combat recommences with the pursuers in the beginning of initiative order. If the escapees succeed, the enemy is beaten to the objective, gives up, or loses track of the characters for at least 1d4 hours.
+15. You need to maintain concentration to hold your breath.
 ---
 **You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.**
 
