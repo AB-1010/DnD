@@ -77,6 +77,7 @@ ____
 Travel is tracked in days and hexes. One set of rolls is made per day, and a number of hexes will be traversed per day depending on the environment, the mode of travel, and whether the party pushes themselves.
 ____
 ###### Sleeping In The Wild
+
 Whenever you sleep in the wilderness, you cannot benefit from a long rest and you expend one Hit Die. This includes somewhere temporary like a cave or tent, or other squalid condition.
 Long rests require at least poor conditions: safe and comfortable places like a wizard's tower, a permanent and maintained tree-house, or a secure room safe from the weather and wandering monsters.
 If you have no remaining Hit Dice, you instead gain a level of exhaustion. While there are ways to mitigate it, Hit Dice and exhaustion are the main time-tracking mechanisms, incentivizing the party to spend as little possible time between safe locations.
