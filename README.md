@@ -233,14 +233,6 @@ The players then have the option to either attempt the ability check, or decide 
 <sub>Ability checks are more than just dice rolls. Ability checks are an opportunity for roleplaying. Describing how a character does something can often be more interesting than the dice roll itself.</sub>
 
 ___
-<u>List of shops</u>
-District| Street | Shop |
-|:---:|:---:|:---:
-Emercor | Tome Way | Alard's Armoury
-Emercor | Tome Way | Come's Marvelous Tinctures
-Emercor | Tome Way | Efril's Emporium
-Emercor | Tome Way | The Fox's Blades
-___
 ### Characteristics  
 
 Each player character can have up to five characteristics: one personality trait, one bond, one ideal, one flaw, and a fifth characteristic of any type. These characteristics can be selected from the usual tables during character creation, but should be customized as the characters change during play.   
