@@ -78,13 +78,13 @@ Travel is tracked in days and hexes. One set of rolls is made per day, and a num
 ____
 ###### Sleeping In The Wild
 
-Whenever you sleep in the wilderness, you cannot benefit from a long rest and you expend one Hit Die. This includes somewhere temporary like a cave or tent, or other squalid condition.
-Long rests require at least poor conditions: safe and comfortable places like a wizard's tower, a permanent and maintained tree-house, or a secure room safe from the weather and wandering monsters.
-If you have no remaining Hit Dice, you instead gain a level of exhaustion. While there are ways to mitigate it, Hit Dice and exhaustion are the main time-tracking mechanisms, incentivizing the party to spend as little possible time between safe locations.
+Whenever you sleep in the wilderness, you cannot benefit from a long rest and you expend one Hit Die. This includes somewhere temporary like a cave or tent, or other squalid condition.  
+Long rests require at least poor conditions: safe and comfortable places like a wizard's tower, a permanent and maintained tree-house, or a secure room safe from the weather and wandering monsters.  
+If you have no remaining Hit Dice, you instead gain a level of exhaustion. While there are ways to mitigate it, Hit Dice and exhaustion are the main time-tracking mechanisms, incentivizing the party to spend as little possible time between safe locations.  
 If you live a wealthy lifestyle (get an upgraded room for 4gp/day at The Sly Prince) or higher for the duration of a long rest, you recover one additional level of exhaustion.
 ___
 #### Travel Procedure
-**_For Known regions_**
+**_For Known regions_**  
 Each day the party travels through a region, perform the following steps:
 **Step 1**: The players choose the hexes they want to travel through within 8 hours, or alternatively have at least one Player Character **search** for a known location or creature and let the DM choose the hex(es) based on whether the search succeeds or not.
 **Step 2**: Each PC chooses one of the following activities to perform while traveling: **navigate, search, forage, on watch, support, utilize vehicle, motivate, chronicle, or craft**
