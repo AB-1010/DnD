@@ -123,20 +123,20 @@ The party can reasonably travel for 8 hours each day. The number of hexes that c
 **_Rotating Shifts_**: If the party is traveling on a vehicle large enough for them to rest, and the creatures operating the vehicle (such as horses, oarsmen, boiler room workers, or captain) can change at least every 8 hours, the party can travel for 24 hours a day.  
 
 ACTIVITY DCs
-Environment|Navigate|Search|Forage|Utilize Vehicle|Potion|Poison|Protection|Weapon
-:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-Roads|0|15|10|10|20|20|15|15
-Grassland|10|15|5|15|15|15|15|15
-Coastal|0|10|10|20|15|10|15|15
-Desert|20|15|25|20|20|15|20|20
-Arctic|20|10|20|20|20|20|20|15
-Swamp|10|10|10|20|10|10|15|15
-Hills|15|15|10|15|15|15|10|10
-Forest|15|15|5|25|10|10|10|10
-Mountain path|10|20|20|15|20|20|20|20
-Mountains|20|20|20|30|20|20|15|15
-Water|15|25|15|20|10|10|20|20
-Urban|15|20|N/A|N/A|25|25|25|25
+Environment|Navigate|Search|Forage|Utilize Vehicle|Ink|Potion|Poison|Protection|Weapon
+:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+Roads|0|15|10|10| 20 |20|20|15|15
+Grassland|10|15|5|15| 15 |15|15|15|15
+Coastal|0|10|10|20| 10 |15|10|15|15
+Desert|20|15|25|20| 20 |20|15|20|20
+Arctic|20|10|20|20| 15 |20|20|20|15
+Swamp|10|10|10|20| 10 |10|10|15|15
+Hills|15|15|10|15| 20 |15|15|10|10
+Forest|15|15|5|25| 15 |10|10|10|10
+Mountain path|10|20|20|15| 20 |20|20|20|20
+Mountains|20|20|20|30| 20 |20|20|15|15
+Water|15|25|15|20| 10 |10|10|20|20
+Urban|15|20|N/A|N/A| 25 |25|25|25|25
 ___
 ### Travel Activities  
 This section outlines the activities that a character can perform while traveling.
@@ -199,6 +199,7 @@ If you roll above the environment’s navigation DC, the party can travel the sa
 
 ##### Craft (Multiple)  
 Each day, you gather materials from the environment and craft one of the following, depending on the toolkit you use. The DCs are presented in the Activity DC table.  
+* **_Magic Ink_**: You find a faintly magical liquid in a plant or carcass, and either scribe a cantrip or 1st level spell you know, or create a letter or artwork that causes the first viewer to be under the effect of the Suggestion spell. Roll Intelligence or Wisdom (Forgery kit, Painter’s or Calligrapher’s supplies, Cartographer’s tools).
 * **_Poison_**: You find ingredients and create a mild poison. It is an ingestion or injury poison, and causes the target to become poisoned for an hour if they fail a DC 15 Constitution Saving Throw. Roll Intelligence or Wisdom (Brewer’s or Alchemist’s supplies, Cook’s utensils, Herbalism or Poisoner’s kit).
 * **_Potion of Healing_**: You find ingredients and create a potion of healing. Roll Intelligence or Wisdom (Herbalism or Poisoner’s kit, or Alchemist’s supplies).
 * **_Sharpened Weapon_**: You find strange wood, a high-quality whetstone, or something similarly appropriate. With the materials you craft or sharpen a weapon. It deals +5 damage the first time it hits. Roll Dexterity or Wisdom (Mason’s, Smith’s, Tinker’s, Jeweler’s, Woodcarver’s or Carpenter’s tools).
