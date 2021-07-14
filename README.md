@@ -231,13 +231,7 @@ When the DM proposes an ability or skill check, they choose a DC based on how th
 The DM tells the players the DC before any dice are rolled – the characters are assumed to be competent enough to assess the difficulty of a task before they attempt it.  
 The players then have the option to either attempt the ability check, or decide on a different course of action. This can include altering how they approach the task in order to make it easier, in which case the DM would be open to lowering the DC. Or if the solution is clever enough, an ability check might not be necessary at all! This can be particularly appropriate when navigating hazards.  
 <sub>Ability checks are more than just dice rolls. Ability checks are an opportunity for roleplaying. Describing how a character does something can often be more interesting than the dice roll itself.</sub>
-___
-##### Quick tip
-You can note down your inspiration status in roll20 by clicking on the toggle button:
 
-![image](https://user-images.githubusercontent.com/26383552/125262571-ec20dc80-e31f-11eb-984f-086c92e9f56c.png)
-when clicked:
-![image](https://user-images.githubusercontent.com/26383552/125262639-fa6ef880-e31f-11eb-9552-b72d7709dfef.png)
 ___
 <u>List of shops</u>
 District| Street | Shop |
