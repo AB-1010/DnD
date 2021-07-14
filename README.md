@@ -137,6 +137,13 @@ Mountain path|10|20|20|15| 20 |20|20|20|20
 Mountains|20|20|20|30| 20 |20|20|15|15
 Water|15|25|15|20| 10 |10|10|20|20
 Urban|15|20|N/A|N/A| 25 |25|25|25|25
+
+Activity DC Modifiers
+Modifier|DC
+:---|:---:
+Lightly obscured (e.g. rain, torchlight, darkvision)| +5
+Heavily obscured (e.g. night, heavy fog)| +10
+Magical influences (e.g. fey, celestial, demonic)| +/-5
 ___
 ### Travel Activities  
 This section outlines the activities that a character can perform while traveling.
