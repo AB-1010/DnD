@@ -241,6 +241,12 @@ Emercor | Tome Way | Come's Marvelous Tinctures
 Emercor | Tome Way | Efril's Emporium
 Emercor | Tome Way | The Fox's Blades
 ___
+### Characteristics  
+
+Each player character can have up to five characteristics: one personality trait, one bond, one ideal, one flaw, and a fifth characteristic of any type. These characteristics can be selected from the usual tables during character creation, but should be customized as the characters change during play.   
+Any number of characteristics can be changed between sessions, to better reflect the character.  
+You should be able to imagine at least one way in which each of your characteristics might come up in play. If you can’t, rewrite the characteristic until you can.
+___
 ### INSPIRATION! CHECK IT, SUCKAS!
 
 ##### Benefits of Inspiration
