@@ -227,7 +227,7 @@ Level | Effect
 6 | **DEATH**
 ___
 #### Crafting Magic Items  
-To craft magical items, one needs a special resource known as **_Flux_**.  
+To craft magical items, one needs a special resource known as **_Flux_** and the required materials worth in gold.  
 Flux is made of a jagged, shimmering crystal material that slowly changes color over time. It is considered magical, and emanates turbulent magical energy. One piece of flux can fit in the palm of a human hand, and weighs 1 lb. Flux is too unreliable to be part of a larger economy.  
 
 __Disenchanting__  
