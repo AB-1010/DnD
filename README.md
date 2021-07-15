@@ -88,12 +88,12 @@ ___
 #### Travel Procedure
 **_For Known regions_**  
 Each day the party travels through a region, perform the following steps:  
-**Step 1**: Every day, the players choose the hexes they want to travel through within 8 hours, or alternatively have at least one Player Character **search** for a known location or creature and let the DM choose the hex(es) based on whether the search succeeds or not.  
-**Step 2**: Every 4 days, each PC chooses one of the following activities to perform while traveling: **navigate, search, forage, on watch, support, utilize vehicle, motivate, chronicle, or craft**  
-**Step 3**: While the players are choosing their activities, the DM rolls on an encounter table and prepares the encounter. If it is an Environment Hazard, introduces it after the players have picked their activities but before DCs are determined.  
-**Step 4**: The PC's resolve their activities, and roleplay any scenes they would like to have.  
-**Step 5**: Every 4 days, if an encounter was rolled and it was not an evironmental hazard, the DM introduces it.  
-**Step 6**: Every day, the players choose whether to do a forced march, and which additional hexes they will travel through.  
+* **Step 1**: Every day, the players choose the hexes they want to travel through within 8 hours, or alternatively have at least one Player Character **search** for a known location or creature and let the DM choose the hex(es) based on whether the search succeeds or not.  
+* **Step 2**: Every 4 days, each PC chooses one of the following activities to perform while traveling: **navigate, search, forage, on watch, support, utilize vehicle, motivate, chronicle, or craft**  
+* **Step 3**: While the players are choosing their activities, the DM rolls on an encounter table and prepares the encounter. If it is an Environment Hazard, introduces it after the players have picked their activities but before DCs are determined.  
+* **Step 4**: The PC's resolve their activities, and roleplay any scenes they would like to have.  
+* **Step 5**: Every 4 days, if an encounter was rolled and it was not an evironmental hazard, the DM introduces it.  
+* **Step 6**: Every day, the players choose whether to do a forced march, and which additional hexes they will travel through.  
 
 __Hours per hex__
 Environment | On Foot | Vehicle
@@ -106,13 +106,13 @@ Water | 32 | 8
 Air | No | Go away
 
 **_For unknown regions, AKA Exploring_**  
-**Step 1**: Every day, the players choose the hex they want to travel through within 8 hours, or alternatively have at least one Player Character **search** for a known location or creature and let the DM choose the neighboring hex based on whether the search succeeds or not.  
-**Step 2**: Every 4 days, DM determines encounters  
-**Step 3**: If a non-hazardous problem is encountered, the DM introduces it.  
-**Step 4**: The players choose whether to do a forced march, and which additional hex they will travel through.  
+* **Step 1**: Every day, the players choose the hex they want to travel through within 8 hours, or alternatively have at least one Player Character **search** for a known location or creature and let the DM choose the neighboring hex based on whether the search succeeds or not.  
+* **Step 2**: Every 4 days, DM determines encounters  
+* **Step 3**: If a non-hazardous problem is encountered, the DM introduces it.  
+* **Step 4**: The players choose whether to do a forced march, and which additional hex they will travel through.  
 _Once the party decides not to travel any further that day:_  
-**_Step 5_**: Every 4 days, each PC chooses one of the following activities to perform: **navigate, search, forage, on watch, support, utilize vehicle, motivate, chronicle, or craft**  
-**_Step 6_**: The PCs resolve their activities, and roleplay any scenes they would like to have.  
+* **_Step 5_**: Every 4 days, each PC chooses one of the following activities to perform: **navigate, search, forage, on watch, support, utilize vehicle, motivate, chronicle, or craft**  
+* **_Step 6_**: The PCs resolve their activities, and roleplay any scenes they would like to have.  
 ___
 The party can always see if neighboring hexes are mountains.  
 ___
