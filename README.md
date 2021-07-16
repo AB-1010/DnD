@@ -11,7 +11,7 @@ Vigna | 8,150 XP/14,000 XP | [5850 XP to level 6] | [Shar, Piety Score: 1]
 
 ___
 ___
-_**Ingemino**_ is a moderately sized walled city on the coast of a large body of water. You, _the Player Character_, were born and have lived your entire life in this city. Make your backstory whatever you like as long as it complies with the world. 
+_**Ingemino**_ is a moderately sized walled city attached to large body of water. You, _the Player Character_, were born and have lived your entire life in/around this city. Make your backstory whatever you like as long as it complies with the world. 
 Speaking of which, The world around _Ingemino_ is almost completely unexplored apart due to the immense risk of, well, death when going out exploring for any purpose.
 _(Although, there was a group of adventurers who had made great strides in exploring and exploiting the unknown treasures of this land. They had a large table in their preferred ~~AirBnB~~ Tavern & Inn, The Sly Prince, on which they used to carve an ever-expanding map of their expeditions. It was their terminal of sorts and their reference for all adventures. Unfortunately, it burned down during a fire)_ 
 ___
@@ -49,7 +49,7 @@ ___
 1. Sourcebooks allowed: PHB, XGtE and TCoE (Spells not yet reviewed). 
 2. Deities from the Forgotten Realms, Greek or Norse list
 3. Feats will be approved per case. 
-4. Equipment costs are written in the PHB. 
+4. Standard equipment costs are written in the PHB. 
 5. Talking does not require an action on your turn, but if you want to influence the battle, it might. Before you use your action for the turn, you can try to influence a single intelligent hostile creature that understands you. Make a contested Persuasion, Performance, Deception, Intimidation, or Animal Handling roll as normal. If the target has been harmed by the party, roll with disadvantage. If you succeed, it costs your action, and the target will offer no help but also do no harm to you until you act aggressively. If you succeed by 10 or more, the target will do what you ask as long as no risks<sup>Attacking allies carries a risk</sup> or sacrifices are involved, until you act aggressively.
 6. Starting level = 5, Points will be rolled. You get to choose items from your starting 
   equipment list & and get starting gold as well which you have to roll for (you can spend it on 
