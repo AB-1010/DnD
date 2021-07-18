@@ -89,6 +89,15 @@ Cantrip |	1 day |	15 gp | 0
 8th	| 32 workweeks	| 50,000 gp | 144
 9th	| 48 workweeks	| 250,000 gp | 360
 ___
+### Brewing Potions of Healing  
+A character who has proficiency with the herbalism kit can create these potions.  
+Type	| Time | Cost  
+:---|:---|---:
+Healing	| 1 day	| 25 gp
+Greater healing	| 1 workweek	| 100 gp
+Superior healing	| 3 workweeks	| 1,000 gp
+Supreme healing	| 4 workweeks	| 10,000 gp
+___
 #### Exhaustion
 Level | Effect
 :---: | ---
