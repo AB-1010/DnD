@@ -76,18 +76,18 @@ Scribing a spell scroll takes an amount of time and money related to the level o
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.  
 #### Spell Scroll Costs  
-Spell Level	| Time	| Cost  
-:---:|:---|---:
-Cantrip |	1 day |	15 gp
-1st	| 1 day	| 25 gp
-2nd	| 3 days	| 250 gp
-3rd	| 1 workweek |	500 gp
-4th	| 2 workweeks	| 2,500 gp
-5th	| 4 workweeks	| 5,000 gp
-6th	| 8 workweeks	| 15,000 gp
-7th	| 16 workweeks	| 25,000 gp
-8th	| 32 workweeks	| 50,000 gp
-9th	| 48 workweeks	| 250,000 gp
+Spell Level	| Time	| Cost | Flux
+:---:|:---|---:|---:
+Cantrip |	1 day |	15 gp | 0
+1st	| 1 day	| 25 gp | 1
+2nd	| 3 days	| 250 gp | 5
+3rd	| 1 workweek |	500 gp | 8
+4th	| 2 workweeks	| 2,500 gp | 24
+5th	| 4 workweeks	| 5,000 gp | 36
+6th	| 8 workweeks	| 15,000 gp | 72
+7th	| 16 workweeks	| 25,000 gp | 96
+8th	| 32 workweeks	| 50,000 gp | 144
+9th	| 48 workweeks	| 250,000 gp | 360
 ___
 #### Exhaustion
 Level | Effect
