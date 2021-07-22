@@ -1,5 +1,5 @@
 
-__**XP TRACKER**__ [Current Level Cap = **7**]
+__**XP TRACKER**__ [Current Level Cap = **6**]
 | Name | XP | XP Needed | Piety |
 | :---: | :---: | :---: | :---:
 Adrian | 14,000 XP/14,000 XP | [0 XP to level 6] | [Impiety]
