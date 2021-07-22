@@ -2,12 +2,12 @@
 __**XP TRACKER**__ [Current Level Cap = **7**]
 | Name | XP | XP Needed | Piety |
 | :---: | :---: | :---: | :---:
-Adrian | 8,800 XP/14,000 XP | [5200 XP to level 6] | [Impiety]
-Kerrik | 8,900 XP/14,000 XP | [5100 XP to level 6] | [Impiety]
-Levi | 7,700 XP/14,000 XP | [6300 XP to level 6] | [Artemis, Piety Score: 0]
-Theodohr | 9,650 XP/14,000 XP | [4350 XP to level 6] | [Hephaestus, Piety Score: 0]
-Todo | 8,800 XP/14,000 XP | [5200 XP to level 6] | [Sif, Piety Score: 0]
-Vigna | 9,100 XP/14,000 XP | [4900 XP to level 6] | [Shar, Piety Score: 1]
+Adrian | 14,000 XP/14,000 XP | [0 XP to level 6] | [Impiety]
+Kerrik | 14,100 XP/14,000 XP | [-100 XP to level 6] | [Impiety]
+Levi | 12,900 XP/14,000 XP | [1100 XP to level 6] | [Artemis, Piety Score: 0]
+Theodohr | 14,850 XP/14,000 XP | [-850 XP to level 6] | [Hephaestus, Piety Score: 1]
+Todo | 14,000 XP/14,000 XP | [0 XP to level 6] | [Sif, Piety Score: 0]
+Vigna | 14,300 XP/14,000 XP | [-300 XP to level 6] | [Shar, Piety Score: 2]
 
 ___
 ___
