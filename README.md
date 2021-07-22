@@ -6,7 +6,7 @@ Adrian | 14,000 XP/14,000 XP | [0 XP to level 6] | [Impiety]
 Kerrik | 14,100 XP/14,000 XP | [-100 XP to level 6] | [Impiety]
 Levi | 12,900 XP/14,000 XP | [1100 XP to level 6] | [Artemis, Piety Score: 0]
 Theodohr | 14,850 XP/14,000 XP | [-850 XP to level 6] | [Hephaestus, Piety Score: 1]
-Todo | 14,000 XP/14,000 XP | [0 XP to level 6] | [Sif, Piety Score: 0]
+Todo | 14,000 XP/14,000 XP | [0 XP to level 6] | [Sif, Piety Score: 1]
 Vigna | 14,300 XP/14,000 XP | [-300 XP to level 6] | [Shar, Piety Score: 2]
 
 ___
