@@ -1,5 +1,5 @@
 
-__**XP TRACKER**__ [Current Level Cap = **6**] If you are the first one to see this then I hope this was a nice surprise
+__**XP TRACKER**__ [Current Level Cap = **6**] We be rolling hitpoints after level 5
 | Name | XP | XP Needed | Piety |
 | :---: | :---: | :---: | :---:
 Adrian | 14,000 XP/14,000 XP | [0 XP to level 6] | [Impiety]
