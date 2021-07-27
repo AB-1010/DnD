@@ -1,5 +1,5 @@
 
-__**XP TRACKER**__ [Current Level Cap = **7**] We be rolling hitpoints after level 5
+__**XP TRACKER**__ [Current Level Cap = **7**] Roll for HP after level 5 or don't. do whatever you want. 
 | Name | XP | XP Needed | Piety |
 | :---: | :---: | :---: | :---:
 Adrian | 15,000 XP/23,000 XP | [8000 XP to level 7] | [Impiety]
