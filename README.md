@@ -3,13 +3,16 @@ __**XP TRACKER**__ [Current Level Cap = **7**] Roll for HP after level 5 or don'
 | Name | XP | XP Needed | Piety |
 | :---: | :---: | :---: | :---:
 Adrian | 15,000 XP/23,000 XP | [8000 XP to level 7] | [Impiety]
-Kerrik | 15,100 XP/23,000 XP | [7900 XP to level 7] | [Impiety]
+Kerrik | 15,300 XP/23,000 XP | [7700 XP to level 7] | [Impiety]
 Levi | 14,000 XP/23,000 XP | [9000 XP to level 7] | [Artemis, Piety Score: 0]
 Theodohr | 15,850 XP/23,000 XP | [7150 XP to level 7] | [Hephaestus, Piety Score: 1]
 Todo | 15,000 XP/23,000 XP | [8000 XP to level 7] | [Sif, Piety Score: 1]
-Vigna | 15,300 XP/23,000 XP | [7700 XP to level 7] | [Shar, Piety Score: 2]
+Vigna | 15,500 XP/23,000 XP | [7500 XP to level 7] | [Shar, Piety Score: 2]
 
 ___
+### _Changelog_  
+* Sorcerers: You have an additional number of sorcery points equal to your proficiency bonus.
+
 ___
 _**Ingemino**_ is a moderately sized walled city attached to large body of water. You, _the Player Character_, were born and have lived your entire life in/around this city. Make your backstory whatever you like as long as it complies with the world. 
 Speaking of which, The world around _Ingemino_ is almost completely unexplored apart due to the immense risk of, well, death when going out exploring for any purpose.
