@@ -152,4 +152,12 @@ With a week of downtime, a PC can successfully complete one of the following Act
 
 *   Search the area, at the DM’s discretion. 
 *   Chronicle the goings-on in the area for a week.   
-*   Craft one of the listed items. Special materials are still at the DM’s discretion.
+*   Craft one of the listed items. Special materials are still at the DM’s discretion.  
+____
+#### Crafting Magic Items  
+To craft magical items, one needs a special resource known as **_Flux_** and the required materials worth in gold.  
+Flux is made of a jagged, shimmering crystal material that slowly changes color over time. It is considered magical, and emanates turbulent magical energy. One piece of flux can fit in the palm of a human hand, and weighs 1 lb. Flux is too unreliable to be part of a larger economy.  
+
+__Disenchanting__  
+To disenchant a magic item, it takes half the time it would take to craft the item, and results in the creation of half as many flux pieces as it would take to craft the item. The item is destroyed in the process. It does not require any gold to disenchant a magic item. If a magic item has a limited number of charges and cannot be recharged, the number of flux pieces created from disenchanting it is reduced proportionally. Flux cannot be used to craft potions or scrolls, nor can they be disenchanted.
+___
