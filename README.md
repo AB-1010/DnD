@@ -3,11 +3,11 @@
 __**XP TRACKER**__ [Current Level Cap = **7**] Roll for HP after level 5 or don't. do whatever you want. 
 | Name | XP | XP Needed | Piety |
 | :---: | :---: | :---: | :---:
-Adrian | 15,000 XP/23,000 XP | [8000 XP to level 7] | [Impiety]
-Kerrik | 15,300 XP/23,000 XP | [7700 XP to level 7] | [Impiety]
-Levi | 14,000 XP/23,000 XP | [9000 XP to level 7] | [Artemis, Piety Score: 0]
-Theodohr | 15,650 XP/23,000 XP | [7350 XP to level 7] | [Hephaestus, Piety Score: 1]
-Todo | 15,000 XP/23,000 XP | [8000 XP to level 7] | [Sif, Piety Score: 1]
+Adrian | 16,000 XP/23,000 XP | [7000 XP to level 7] | [Impiety]
+Kerrik | 16,300 XP/23,000 XP | [6700 XP to level 7] | [Impiety]
+Levi | 15,000 XP/23,000 XP | [8000 XP to level 7] | [Artemis, Piety Score: 0]
+Theodohr | 16,650 XP/23,000 XP | [6350 XP to level 7] | [Hephaestus, Piety Score: 1]
+Todo | 16,000 XP/23,000 XP | [7000 XP to level 7] | [Sif, Piety Score: 1]
 Vigna | 15,500 XP/23,000 XP | [7500 XP to level 7] | [Shar, Piety Score: 2]
 
 ___
