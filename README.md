@@ -1,3 +1,4 @@
+### You have 3 inspiration as the default value. You use them (ticking the characteristic when you do so) and can renew/remove the tick from a characteristic using a renewal method
 
 __**XP TRACKER**__ [Current Level Cap = **7**] Roll for HP after level 5 or don't. do whatever you want. 
 | Name | XP | XP Needed | Piety |
