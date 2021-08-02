@@ -62,7 +62,7 @@ ___
   equipment list & and get starting gold as well which you have to roll for (you can spend it on 
   the PHB equipment list for the listed amount).
 7. Flanking: creatures on opposing sides of an enemy receive a +2 to their Attack Rolls vs the enemy between them.
-8. Variant Encumbrance (you don't need to pay attention to the STR column of armours): If you carry weight in excess of 5x your STR score, you are encumbered, reducing your speed by 10ft. If you carry weight in excess of 10x your STR score, you are heavily encumbered which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+8. Conc. for holding your breath.
 9. (To be changed) Outlander, Natural Explorer etc. give Advantage on Navigation (so that if the party moves at a fast pace, that cancels the Disadvantage), Advantage on Perception while traveling (so that if the party moves at a fast pace...), and foraging yielding enough food for a second person (basically covering one other party member’s failure) instead of the regular bonuses.
 10. While in combat, a potion can be consumed by a creature as a Bonus Action while "feeding" it to another creature is considered an Action. Additionally, throwing potions to others is considered an Action with a range of 20/60 feet. If the thrown potion is an attack (ie: alchemist fire, acid, etc), it is considered an Improvised Weapon.
 11. When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
@@ -71,30 +71,12 @@ ___
 14. If the party (or NPCs) want to escape combat, they can do so by having each escaping character Dash or Disengage on their next turn. Once all characters have done so, the DM (or players in the case of escaping NPCs) choose one of the following:
  * The enemy is not interested in chasing, and the escaping characters get away.
  * The enemy chases them, and a skill challenge begins. If the escapees fail the skill challenge, combat recommences with the pursuers in the beginning of initiative order. If the escapees succeed, the enemy is beaten to the objective, gives up, or loses track of the characters for at least 1d4 hours.
-15. You need to maintain concentration to hold your breath.
+
 ---
 **You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.**
 
 All of this is subject to change
-___
-### Scribing Spell Scrolls  
 
-Scribing a spell scroll takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the Spell Scroll Costs table. In addition, the character must have proficiency in the Arcana skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character's known spells, in order to scribe a scroll of that spell.  
-
-If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.  
-#### Spell Scroll Costs  
-Spell Level	| Time	| Cost | Flux
-:---:|:---|---:|---:
-Cantrip |	1 day |	15 gp | 0
-1st	| 1 day	| 25 gp | 1
-2nd	| 3 days	| 250 gp | 5
-3rd	| 1 workweek |	500 gp | 8
-4th	| 2 workweeks	| 2,500 gp | 24
-5th	| 4 workweeks	| 5,000 gp | 36
-6th	| 8 workweeks	| 15,000 gp | 72
-7th	| 16 workweeks	| 25,000 gp | 96
-8th	| 32 workweeks	| 50,000 gp | 144
-9th	| 48 workweeks	| 250,000 gp | 360
 ___
 ### Brewing Potions of Healing  
 A character who has proficiency with the herbalism kit can create these potions.  
