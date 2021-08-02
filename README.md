@@ -14,6 +14,9 @@ ___
 ### _Changelog_  
 * Sorcerers: You have an additional number of sorcery points equal to your proficiency bonus.
 * _you know what? fuck it, we are going on an epic saga involving god-like characters this time._
+* When a character at 0 hit points regains hit points, they instantly become conscious and heal as per usual. However, they are still incapacitated until the end of their next turn.  
+* Whenever you fail a concentration check, you gain the dazed condition until the end of your next turn. <sub>[If you are concentrating on a spell and become dazed, you lose concentration on that spell and it immediately fails. While dazed, you cannot concentrate on spells.] </sub>
+* Bleeding creatures cannot regain hit points from spells or abilities. A bleeding creature can only regain hit points by consuming hit dice or completing a long rest.  
 ___
 _**Ingemino**_ is a moderately sized walled city attached to large body of water. You, _the Player Character_, were born and have lived your entire life in/around this city. Make your backstory whatever you like as long as it complies with the world. 
 Speaking of which, The world around _Ingemino_ is almost completely unexplored apart due to the immense risk of, well, death when going out exploring for any purpose.
