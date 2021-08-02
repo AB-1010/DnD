@@ -161,3 +161,22 @@ Flux is made of a jagged, shimmering crystal material that slowly changes color 
 __Disenchanting__  
 To disenchant a magic item, it takes half the time it would take to craft the item, and results in the creation of half as many flux pieces as it would take to craft the item. The item is destroyed in the process. It does not require any gold to disenchant a magic item. If a magic item has a limited number of charges and cannot be recharged, the number of flux pieces created from disenchanting it is reduced proportionally. Flux cannot be used to craft potions or scrolls, nor can they be disenchanted.
 ___
+___
+### Scribing Spell Scrolls  
+
+Scribing a spell scroll takes an amount of time and money related to the level of the spell the character wants to scribe, as shown in the Spell Scroll Costs table. In addition, the character must have proficiency in the Arcana skill and must provide any material components required for the casting of the spell. Moreover, the character must have the spell prepared, or it must be among the character's known spells, in order to scribe a scroll of that spell.  
+
+If the scribed spell is a cantrip, the version on the scroll works as if the caster were 1st level.  
+#### Spell Scroll Costs  
+Spell Level	| Time	| Cost | Flux
+:---:|:---|---:|---:
+Cantrip |	1 day |	15 gp | 0
+1st	| 1 day	| 25 gp | 1
+2nd	| 3 days	| 250 gp | 5
+3rd	| 1 workweek |	500 gp | 8
+4th	| 2 workweeks	| 2,500 gp | 24
+5th	| 4 workweeks	| 5,000 gp | 36
+6th	| 8 workweeks	| 15,000 gp | 72
+7th	| 16 workweeks	| 25,000 gp | 96
+8th	| 32 workweeks	| 50,000 gp | 144
+9th	| 48 workweeks	| 250,000 gp | 360
