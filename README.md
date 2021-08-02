@@ -1,4 +1,4 @@
-### _If you could gain otherworldly power in exchange for something, like your soul. Would you do it?_
+#### _If you could gain otherworldly power in exchange for something, like your soul. Would you do it?_
 
 __**XP TRACKER**__ [Current Level Cap = **7**] Roll for HP after level 5 or don't. do whatever you want. 
 | Name | XP | XP Needed | Piety |
