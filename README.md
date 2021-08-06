@@ -1,7 +1,7 @@
 
 
 __**XP TRACKER**__  
-**Level 6**
+### **Level 6**
 
 ___
 ### _Changelog_  
