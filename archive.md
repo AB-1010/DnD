@@ -180,3 +180,13 @@ Cantrip |	1 day |	15 gp | 0
 7th	| 16 workweeks	| 25,000 gp | 96
 8th	| 32 workweeks	| 50,000 gp | 144
 9th	| 48 workweeks	| 250,000 gp | 360
+___
+__**XP TRACKER**__ [Current Level Cap = **7**]
+| Name | XP | XP Needed | Piety |
+| :---: | :---: | :---: | :---:
+Adrian | 16,500 XP/23,000 XP | [6500 XP to level 7] | [Impiety]
+Kerrik | 17,300 XP/23,000 XP | [5700 XP to level 7] | [Impiety]
+Levi | 15,500 XP/23,000 XP | [7500 XP to level 7] | [Artemis, Piety Score: 0]
+Theodohr | 17,650 XP/23,000 XP | [5350 XP to level 7] | [Hephaestus, Piety Score: 3]
+Todo | 17,000 XP/23,000 XP | [6000 XP to level 7] | [Sif, Piety Score: 3]
+Vigna | 16,500 XP/23,000 XP | [6500 XP to level 7] | [Shar, Piety Score: 3]
