@@ -6,7 +6,6 @@ _Rolling for HP for level 7 and above (reroll 1s)_
 
 ___
 ### _Changelog_  
-* Sorcerers: You have an additional number of sorcery points equal to your proficiency bonus.
 * When a character at 0 hit points regains hit points, they instantly become conscious and heal as per usual. However, they are still incapacitated until the end of their next turn.  
 * Whenever you fail a concentration check, you gain the dazed condition until the end of your next turn. <sub>[If you are concentrating on a spell and become dazed, you lose concentration on that spell and it immediately fails. While dazed, you cannot concentrate on spells.] </sub>
 
