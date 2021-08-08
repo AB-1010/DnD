@@ -2,7 +2,7 @@
 
 __**XP TRACKER**__  
 ### **Current: Level 6**  
-_Rolling for HP for level 7 and above_
+_Rolling for HP for level 7 and above (reroll 1s)_
 
 ___
 ### _Changelog_  
