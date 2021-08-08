@@ -1,7 +1,7 @@
 
 
 __**XP TRACKER**__  
-### **Level 6**
+### **Level 6** _Rolling for HP for level 7 and above_
 
 ___
 ### _Changelog_  
