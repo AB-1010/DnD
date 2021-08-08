@@ -7,7 +7,6 @@ _Rolling for HP for level 7 and above (reroll 1s)_
 ___
 ### _Changelog_  
 * Sorcerers: You have an additional number of sorcery points equal to your proficiency bonus.
-* _you know what? fuck it, we are going on an epic saga involving god-like characters this time._
 * When a character at 0 hit points regains hit points, they instantly become conscious and heal as per usual. However, they are still incapacitated until the end of their next turn.  
 * Whenever you fail a concentration check, you gain the dazed condition until the end of your next turn. <sub>[If you are concentrating on a spell and become dazed, you lose concentration on that spell and it immediately fails. While dazed, you cannot concentrate on spells.] </sub>
 
@@ -32,37 +31,18 @@ Months:
 12. Dosember
 
 There is no particular source of light (as in, there's no visible "sun" in the sky) in the day, the entire sky seems to light up. Two moons can be seen in clear night skies. They are called "Alpha" and "Beta".
-___
-<sup>"you get a faction! and you get a faction! everyone gets a faction!"</sup>
-### Factions? Factions. _(they have their own buildings)_ 
-* **The Golden Legacy**: A dynasty of fancy exotic elves who "mediate and coordinate" with the leaders of all the major factions of Ingemino. [The Ivory Towers]
-* **The Angelic Fighters**: The faction of holy fighters which represent their deities in Ingemino and serve The Golden Legacy without any direct communication from them. The Knights of The Arsenal are known to pick the strongest and brightest from this pool of warriors. [The Sanctus] **[Joinable]**
-*  **The Council of The Eight Tipped Star**: An order of mages led by eight masters, each focused on one of the schools of magic. Almost all the mages in Ingemino are a part of this order. The Knights of The Arsenal recruit mages recommended by the arch-mages for their exemplary performance [The Octosidus] **[Joinable]**
-* **The Glürgil Tinkerocracy**: This organization represents all the artisans in Ingemino. All equipment in Ingemino has either originated or been through the underground workplaces of artisans. [The Forge] **[Joinable]**
-* **The Legion of The Faceless**: A nebulas organization that practices intense anonymity, enforces law and order, always wearing masks when in public settings. They take orders from The Golden Legacy.
-* **The Knights of The Arsenal**: An order of highly trained and capable holy knights who directly serve and protect members of The Golden Legacy. They also stage elaborate ceremonies for bolstering the faith of the citizens in the Royal authorities.
-* **The Librarians of Ingemino**:  A faction that seeks the knowledge lost to time. This faction consists of several scholars ranging from Historians to Poets.
-* **The 50s**: A large group of half-breeds. Half-orcs, half-elves, half-halflings (quarterlings?). You name it. They just want to be seen as legitimate races.
-* **The Order of The White Stag**: A group of rangers still loyal to the Lunelin Elven Prince, Eurylos, who was exiled almost a hundred years ago for trying to change the status quo of the way Ingemino is governed.
-* **Altered Magic**: The faction of dark mages who wish to change magic forever. They were banished from Ingemino for breaking into The Octosidus _(being the only ones to ever achieve that feat yet)_ and stealing various artifacts from The Council of The Eight Tipped Star. They are not welcome in Ingemino and rumors have it they're still developing and practicing their dark magic somewhere in the world.
+
 ___
 ### RULES
-1. Sourcebooks allowed: PHB, XGtE and TCoE (Spells not yet reviewed). 
-2. Deities from the Forgotten Realms, Greek or Norse list
-3. Feats will be approved per case. 
-4. Standard equipment costs are written in the PHB. 
-5. Talking does not require an action on your turn, but if you want to influence the battle, it might. Before you use your action for the turn, you can try to influence a single intelligent hostile creature that understands you. Make a contested Persuasion, Performance, Deception, Intimidation, or Animal Handling roll as normal. If the target has been harmed by the party, roll with disadvantage. If you succeed, it costs your action, and the target will offer no help but also do no harm to you until you act aggressively. If you succeed by 10 or more, the target will do what you ask as long as no risks<sup>Attacking allies carries a risk</sup> or sacrifices are involved, until you act aggressively.
-6. Starting level = 5, Points will be rolled. You get to choose items from your starting 
-  equipment list & and get starting gold as well which you have to roll for (you can spend it on 
-  the PHB equipment list for the listed amount).
-7. Flanking: creatures on opposing sides of an enemy receive a +2 to their Attack Rolls vs the enemy between them.
-8. Conc. for holding your breath.
-9. (To be changed) Outlander, Natural Explorer etc. give Advantage on Navigation (so that if the party moves at a fast pace, that cancels the Disadvantage), Advantage on Perception while traveling (so that if the party moves at a fast pace...), and foraging yielding enough food for a second person (basically covering one other party member’s failure) instead of the regular bonuses.
-10. While in combat, a potion can be consumed by a creature as a Bonus Action while "feeding" it to another creature is considered an Action. Additionally, throwing potions to others is considered an Action with a range of 20/60 feet. If the thrown potion is an attack (ie: alchemist fire, acid, etc), it is considered an Improvised Weapon.
-11. When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of exhaustion, the rest doesn’t reduce your exhaustion level.
-12. To help another character with a skill check, you must be proficient in the skill they are using.
-13. After being reduced to 0 hit points, if the remaining damage equals or exceeds your max hit points, you gain 4 levels of exhaustion instead of instantly dying.
-14. If the party (or NPCs) want to escape combat, they can do so by having each escaping character Dash or Disengage on their next turn. Once all characters have done so, the DM (or players in the case of escaping NPCs) choose one of the following:
+1. Sourcebooks allowed: PHB, XGtE and TCoE (Spells not yet reviewed).   
+2. Deities from the Forgotten Realms, Greek or Norse list.  
+3. Feats will be approved per case.   
+4. Standard equipment costs are written in the PHB.   
+5. Flanking: creatures on opposing sides of an enemy receive a +2 to their Attack Rolls vs the enemy between them.  
+6. Conc. for holding your breath.  
+7. To help another character with a skill check, you must be proficient in the skill they are using.  
+8. After being reduced to 0 hit points, if the remaining damage equals or exceeds your max hit points, you gain 4 levels of exhaustion instead of instantly dying.  
+9. If the party (or NPCs) want to escape combat, they can do so by having each escaping character Dash or Disengage on their next turn. Once all characters have done so, the DM (or players in the case of escaping NPCs) choose one of the following:
  * The enemy is not interested in chasing, and the escaping characters get away.
  * The enemy chases them, and a skill challenge begins. If the escapees fail the skill challenge, combat recommences with the pursuers in the beginning of initiative order. If the escapees succeed, the enemy is beaten to the objective, gives up, or loses track of the characters for at least 1d4 hours.
 
