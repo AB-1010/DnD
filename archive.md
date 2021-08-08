@@ -190,3 +190,16 @@ Levi | 15,500 XP/23,000 XP | [7500 XP to level 7] | [Artemis, Piety Score: 0]
 Theodohr | 17,650 XP/23,000 XP | [5350 XP to level 7] | [Hephaestus, Piety Score: 3]
 Todo | 17,000 XP/23,000 XP | [6000 XP to level 7] | [Sif, Piety Score: 3]
 Vigna | 16,500 XP/23,000 XP | [6500 XP to level 7] | [Shar, Piety Score: 3]
+___
+<sup>"you get a faction! and you get a faction! everyone gets a faction!"</sup>
+### Factions? Factions. _(they have their own buildings)_ 
+* **The Golden Legacy**: A dynasty of fancy exotic elves who "mediate and coordinate" with the leaders of all the major factions of Ingemino. [The Ivory Towers]
+* **The Angelic Fighters**: The faction of holy fighters which represent their deities in Ingemino and serve The Golden Legacy without any direct communication from them. The Knights of The Arsenal are known to pick the strongest and brightest from this pool of warriors. [The Sanctus] **[Joinable]**
+*  **The Council of The Eight Tipped Star**: An order of mages led by eight masters, each focused on one of the schools of magic. Almost all the mages in Ingemino are a part of this order. The Knights of The Arsenal recruit mages recommended by the arch-mages for their exemplary performance [The Octosidus] **[Joinable]**
+* **The Glürgil Tinkerocracy**: This organization represents all the artisans in Ingemino. All equipment in Ingemino has either originated or been through the underground workplaces of artisans. [The Forge] **[Joinable]**
+* **The Legion of The Faceless**: A nebulas organization that practices intense anonymity, enforces law and order, always wearing masks when in public settings. They take orders from The Golden Legacy.
+* **The Knights of The Arsenal**: An order of highly trained and capable holy knights who directly serve and protect members of The Golden Legacy. They also stage elaborate ceremonies for bolstering the faith of the citizens in the Royal authorities.
+* **The Librarians of Ingemino**:  A faction that seeks the knowledge lost to time. This faction consists of several scholars ranging from Historians to Poets.
+* **The 50s**: A large group of half-breeds. Half-orcs, half-elves, half-halflings (quarterlings?). You name it. They just want to be seen as legitimate races.
+* **The Order of The White Stag**: A group of rangers still loyal to the Lunelin Elven Prince, Eurylos, who was exiled almost a hundred years ago for trying to change the status quo of the way Ingemino is governed.
+* **Altered Magic**: The faction of dark mages who wish to change magic forever. They were banished from Ingemino for breaking into The Octosidus _(being the only ones to ever achieve that feat yet)_ and stealing various artifacts from The Council of The Eight Tipped Star. They are not welcome in Ingemino and rumors have it they're still developing and practicing their dark magic somewhere in the world.
