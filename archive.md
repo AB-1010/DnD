@@ -203,3 +203,68 @@ ___
 * **The 50s**: A large group of half-breeds. Half-orcs, half-elves, half-halflings (quarterlings?). You name it. They just want to be seen as legitimate races.
 * **The Order of The White Stag**: A group of rangers still loyal to the Lunelin Elven Prince, Eurylos, who was exiled almost a hundred years ago for trying to change the status quo of the way Ingemino is governed.
 * **Altered Magic**: The faction of dark mages who wish to change magic forever. They were banished from Ingemino for breaking into The Octosidus _(being the only ones to ever achieve that feat yet)_ and stealing various artifacts from The Council of The Eight Tipped Star. They are not welcome in Ingemino and rumors have it they're still developing and practicing their dark magic somewhere in the world.
+___
+_**Ingemino**_ is a moderately sized walled city attached to large body of water. You, _the Player Character_, were born and have lived your entire life in/around this city. Make your backstory whatever you like as long as it complies with the world. 
+Speaking of which, The world around _Ingemino_ is almost completely unexplored apart due to the immense risk of, well, death when going out exploring for any purpose.
+_(Although, there was a group of adventurers who had made great strides in exploring and exploiting the unknown treasures of this land. They had a large table in their preferred ~~AirBnB~~ Tavern & Inn, The Sly Prince, on which they used to carve an ever-expanding map of their expeditions. It was their terminal of sorts and their reference for all adventures. Unfortunately, it burned down during a fire)_ 
+---
+**You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.**
+___
+### Brewing Potions of Healing  
+A character who has proficiency with the herbalism kit can create these potions.  
+Type	| Time | Cost  
+:---|:---|---:
+Healing	| 1 day	| 25 gp
+Greater healing	| 1 workweek	| 100 gp
+Superior healing	| 3 workweeks	| 1,000 gp
+Supreme healing	| 4 workweeks	| 10,000 gp  
+
+___
+#### Exhaustion
+Level | Effect
+:---: | ---
+1 | Disadvantage on ability checks (not saving throws)
+2 | Speed Halved
+3 | Disadvantage on attack roles and saving throws
+4 | Max HP halved
+5 | Speed reduced to 0
+6 | **DEATH**
+___
+
+#### "Active" Ability Checks  
+When the DM proposes an ability or skill check, they choose a DC based on how the players have described their characters performing the task.
+The DM tells the players the DC before any dice are rolled – the characters are assumed to be competent enough to assess the difficulty of a task before they attempt it.  
+The players then have the option to either attempt the ability check, or decide on a different course of action. This can include altering how they approach the task in order to make it easier, in which case the DM would be open to lowering the DC. Or if the solution is clever enough, an ability check might not be necessary at all! This can be particularly appropriate when navigating hazards.  
+<sub>Ability checks are more than just dice rolls. Ability checks are an opportunity for roleplaying. Describing how a character does something can often be more interesting than the dice roll itself.</sub>
+___
+#### Called Shots
+When plausible in the fiction of battle, you can make a "called shot", where you attack a specific part of a creature, or an object the creature is holding or wearing. The DM decides what the effect will be for succeeding before you commit to making a called shot. Examples of appropriate effects are included in the examples table.
+
+Making a called shot **requires having advantage** on the attack, and the cost of making a called shot is that you **lose advantage**. If the attack hits, the called shot is successful: you deal damage as normal, and the target suffers from the effect.
+
+You can make up to one called shot per round. Creatures can only be affected by one called shot at a time. NPCs can also make called shots.   
+**Effect Duration**: Bodily injuries should be temporary, lasting until the end of your next turn. An example, shooting a Cyclops's eye only bruises it for a round, instead of permanently blinding them. Other effects, such as disarming them, last until voluntarily fixed.  
+__Examples__
+Too Weak | Appropriate | Too Strong
+---|---|---
+-10 ft speed | Loses flying speed | Paralyzed
+-4 on next attack | Blinded | Stunned 
+Disadv. on a skill | Disadv. on a saving throw (incl. concentration) | Disadv. on multiple saving throws
+-4 damage | Diarmed | Halved damage
+___
+30 days in a month, 12 months in a year. (standard days of a week)
+Months:
+1. Janary
+2. Phebary
+3. Marsh
+4. Opril
+5. Bay
+6. Zoon
+7. Zulai
+8. Hogast
+9. Satimber
+10. Spooktober
+11. Knowember
+12. Dosember
+
+There is no particular source of light (as in, there's no visible "sun" in the sky) in the day, the entire sky seems to light up. Two moons can be seen in clear night skies. They are called "Alpha" and "Beta".
