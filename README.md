@@ -10,27 +10,8 @@ ___
 * When a character at 0 hit points regains hit points, they instantly become conscious and heal as per usual. However, they are still incapacitated until the end of their next turn.  
 * Whenever you fail a concentration check, you gain the dazed condition until the end of your next turn. <sub>[If you are concentrating on a spell and become dazed, you lose concentration on that spell and it immediately fails. While dazed, you cannot concentrate on spells.] </sub>
 
-___
-_**Ingemino**_ is a moderately sized walled city attached to large body of water. You, _the Player Character_, were born and have lived your entire life in/around this city. Make your backstory whatever you like as long as it complies with the world. 
-Speaking of which, The world around _Ingemino_ is almost completely unexplored apart due to the immense risk of, well, death when going out exploring for any purpose.
-_(Although, there was a group of adventurers who had made great strides in exploring and exploiting the unknown treasures of this land. They had a large table in their preferred ~~AirBnB~~ Tavern & Inn, The Sly Prince, on which they used to carve an ever-expanding map of their expeditions. It was their terminal of sorts and their reference for all adventures. Unfortunately, it burned down during a fire)_ 
-___
-30 days in a month, 12 months in a year. (standard days of a week)
-Months:
-1. Janary
-2. Phebary
-3. Marsh
-4. Opril
-5. Bay
-6. Zoon
-7. Zulai
-8. Hogast
-9. Satimber
-10. Spooktober
-11. Knowember
-12. Dosember
 
-There is no particular source of light (as in, there's no visible "sun" in the sky) in the day, the entire sky seems to light up. Two moons can be seen in clear night skies. They are called "Alpha" and "Beta".
+
 
 ___
 ### RULES
@@ -44,39 +25,12 @@ ___
 8. After being reduced to 0 hit points, if the remaining damage equals or exceeds your max hit points, you gain 4 levels of exhaustion instead of instantly dying.  
 9. If the party (or NPCs) want to escape combat, they can do so by having each escaping character Dash or Disengage on their next turn. Once all characters have done so, the DM (or players in the case of escaping NPCs) choose one of the following:
  * The enemy is not interested in chasing, and the escaping characters get away.
- * The enemy chases them, and a skill challenge begins. If the escapees fail the skill challenge, combat recommences with the pursuers in the beginning of initiative order. If the escapees succeed, the enemy is beaten to the objective, gives up, or loses track of the characters for at least 1d4 hours.
+ * The enemy chases them, and a skill challenge begins. If the escapees fail the skill challenge, combat recommences with the pursuers in the beginning of initiative order. If the escapees succeed, the enemy is beaten to the objective, gives up, or loses track of the characters for at least 1d4 hours.  
 
----
-**You need to be aware that the environment is not built to cater to your particular group size and you won't win all the battles you fight. TPKs, Character death, etc. are all possible IF you are careless.**
 
 All of this is subject to change
 
-___
-### Brewing Potions of Healing  
-A character who has proficiency with the herbalism kit can create these potions.  
-Type	| Time | Cost  
-:---|:---|---:
-Healing	| 1 day	| 25 gp
-Greater healing	| 1 workweek	| 100 gp
-Superior healing	| 3 workweeks	| 1,000 gp
-Supreme healing	| 4 workweeks	| 10,000 gp
-___
-#### Exhaustion
-Level | Effect
-:---: | ---
-1 | Disadvantage on ability checks (not saving throws)
-2 | Speed Halved
-3 | Disadvantage on attack roles and saving throws
-4 | Max HP halved
-5 | Speed reduced to 0
-6 | **DEATH**
-___
 
-#### "Active" Ability Checks  
-When the DM proposes an ability or skill check, they choose a DC based on how the players have described their characters performing the task.
-The DM tells the players the DC before any dice are rolled – the characters are assumed to be competent enough to assess the difficulty of a task before they attempt it.  
-The players then have the option to either attempt the ability check, or decide on a different course of action. This can include altering how they approach the task in order to make it easier, in which case the DM would be open to lowering the DC. Or if the solution is clever enough, an ability check might not be necessary at all! This can be particularly appropriate when navigating hazards.  
-<sub>Ability checks are more than just dice rolls. Ability checks are an opportunity for roleplaying. Describing how a character does something can often be more interesting than the dice roll itself.</sub>
 
 ___
 ### Characteristics  
@@ -114,18 +68,3 @@ If you propose a temptation for your own character, it is up to the DM whether t
 * **Growth**: If your character grows or changes through the course of play, at the end of the session you can change or replace a relevant characteristic (do inform the DM) to reflect the change. Doing so renews that characteristic. This type of renewal will occur less often than the other types.
 <sub>Character growth would not happen every session, but when it does happen it can be a lot of fun. Say, a character might have an ideal, "Honour above all else!", but during the session have to sacrifice their honor in order to save their friend. Clearly honor was NOT above all else! How the player updates their character's ideal to reflect the change is how the character grows, and the player is rewarded for that growth in Inspiration and XP</sub>
 
-___
-#### Called Shots
-When plausible in the fiction of battle, you can make a "called shot", where you attack a specific part of a creature, or an object the creature is holding or wearing. The DM decides what the effect will be for succeeding before you commit to making a called shot. Examples of appropriate effects are included in the examples table.
-
-Making a called shot **requires having advantage** on the attack, and the cost of making a called shot is that you **lose advantage**. If the attack hits, the called shot is successful: you deal damage as normal, and the target suffers from the effect.
-
-You can make up to one called shot per round. Creatures can only be affected by one called shot at a time. NPCs can also make called shots.   
-**Effect Duration**: Bodily injuries should be temporary, lasting until the end of your next turn. An example, shooting a Cyclops's eye only bruises it for a round, instead of permanently blinding them. Other effects, such as disarming them, last until voluntarily fixed.  
-__Examples__
-Too Weak | Appropriate | Too Strong
----|---|---
--10 ft speed | Loses flying speed | Paralyzed
--4 on next attack | Blinded | Stunned 
-Disadv. on a skill | Disadv. on a saving throw (incl. concentration) | Disadv. on multiple saving throws
--4 damage | Diarmed | Halved damage
