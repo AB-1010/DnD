@@ -1,5 +1,5 @@
 
-
+<sub> _Psst, send me a message with the type(s) of items you are interested in (heavy armour? big swords? wands that do weird shit?)_ </sub>  
 __**XP TRACKER**__  
 ### **Current: Level 6**  
 _Rolling for HP for level 7 and above (reroll 1s)_
