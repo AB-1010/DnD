@@ -27,18 +27,15 @@ TBA | TBA
 TBA | TBA
 
 #### [Tasha's Cauldron of Everything](https://www.dndbeyond.com/marketplace/sourcebooks/tashas-cauldron-of-everything)  
-__Goal: $30 USD__  
-__Raised: $ USD__  
+__GOAL MET: $30 USD__  
+__Raised: $30 USD__  
 Current contributions:
 
 Name | Amount 
 :---: | :---:
-TBA | TBA
-TBA | TBA
-TBA | TBA
-TBA | TBA
-TBA | TBA
-TBA | TBA
+Akshat | $10
+Om | $10
+Aaryan | $10
 
 ---
 ![image](https://user-images.githubusercontent.com/26383552/133804674-dde10f3b-9e2f-41e6-bea3-55f54d0f67d4.png)
