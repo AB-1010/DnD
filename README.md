@@ -26,7 +26,7 @@ TBA | TBA
 TBA | TBA
 TBA | TBA
 
-#### [Tasha's Cauldron of Everything](https://www.dndbeyond.com/marketplace/sourcebooks/tashas-cauldron-of-everything)  
+#### [Tasha's Cauldron of Everything]   
 __GOAL MET: $30 USD__  
 __Raised: $30 USD__  
 Current contributions:
