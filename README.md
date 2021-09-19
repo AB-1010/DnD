@@ -8,12 +8,13 @@ __Players:__
 * I am trusting you to record your earnings and spendings accurately, as well as to not be dishonest about your rolls.  
 * Ask/Say what you would like to do but please do not make rolls for things if not asked for it, or assume you have advantage or disadvantage on a roll.  
 * _It might be hard to believe, but I am actually on your side! Shocking, right?_  
+* Talk to me about anything you want to take from books other than the PHB (Spells, Races, Classes, etc.). Reminder: things outside the PHB are always "optional".
 
 
 __Characters:__  
 * Begin at level 1.  
 * Ability scores (re-rolled if all <15) and HP (re-roll if 1) are rolled.
-* Race and classes are available from PHB and TCoE <sub>(courtesy of OxyMagnesium and Kami Sama)</sub> for the time being, but will soon include XGtE options as well.
+* Race and classes are available from PHB. TCoE has been added to the list of potential options <sub>(courtesy of OxyMagnesium and Kami Sama)</sub> for the time being, but will soon include possible options from the XGtE as well.
 * Take starting equipment.  
 
 __**XP TRACKER**__  
