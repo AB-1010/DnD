@@ -12,6 +12,7 @@ __Players:__
 
 
 __Characters:__  
+* No evil alignment allowed.  
 * Begin at level 1.  
 * Ability scores (re-rolled if all <15) and HP (re-roll if 1) are rolled.
 * Race and classes are available from PHB. TCoE has been added to the list of potential options <sub>(courtesy of OxyMagnesium and Kami Sama)</sub> for the time being, but will soon include possible options from the XGtE as well.
