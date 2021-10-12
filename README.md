@@ -23,6 +23,11 @@ _Record it in your sheet on D&D Beyond_
 
 ---
 ## Current crowdfunding goals:  
+
+### [D&DBeyond Annual Membership](https://www.dndbeyond.com/subscriptions)  
+Current Subscription ![image](https://user-images.githubusercontent.com/26383552/136947357-cee5e3a4-15d7-4c3e-931a-726b32869e8a.png)  
+__Target: $55 USD (Annual Master Tier)__  
+
 #### [Xanathar's Guide to Everything](https://www.dndbeyond.com/marketplace/sourcebooks/xanathars-guide-to-everything)  
 __Goal: $30 USD__  
 __Raised: $ USD__  
