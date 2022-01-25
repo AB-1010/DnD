@@ -21,6 +21,10 @@ __Characters:__
 __**XP TRACKER**__  
 _Record it in your sheet on D&D Beyond_
 
+
+__**Spellcasting Services**__  
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/26383552/151009758-ae344395-3028-4821-9a18-07ea81c69faa.png">
+
 ---
 ## Current crowdfunding goals:  
 
